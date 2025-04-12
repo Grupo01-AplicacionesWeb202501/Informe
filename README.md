@@ -12,9 +12,9 @@
 
 <br>
 <h3 align="center"> Desarrollo de Aplicaiones Web </h3>
-<h3 align="center"> Profesor del Curso: ... </h3>
+<h3 align="center"> Profesor del Curso: Oscar Ivan Villafuerte Bazan </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
-<h3 align="center"> EMPRESA DE INICIO: ... </h3>
+<h3 align="center"> EMPRESA DE INICIO: EduFlow </h3>
 
 <h3 align="center"> PRODUCTO: "..."</h3>
 
