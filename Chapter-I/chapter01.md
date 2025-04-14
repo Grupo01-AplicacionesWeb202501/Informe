@@ -1,4 +1,4 @@
-# Capítulo I: Introducción
+ # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 Eduflow es una startup innovadora fundada por estudiantes de Ingeniería de Software, comprometida con la creación de soluciones tecnológicas que optimicen y transformen los procesos educativos. Nuestra principal propuesta es una aplicación web diseñada específicamente para simplificar y mejorar la experiencia de matrícula de alumnos en colegios, reduciendo fricciones y promoviendo una gestión más eficiente. A través de un enfoque centrado en las necesidades de los usuarios, buscamos aportar al desarrollo del sector educativo, brindando herramientas prácticas, intuitivas y accesibles para todos los involucrados.
@@ -66,8 +66,40 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
 
 
 ## 1.2. Solution Profile
+En Eduflow ofrecemos una solución moderna y centrada en los usuarios, optimizando los procesos de matrícula
+y fomentando la comunicación fluida entre los alumnos y profesores, abordando directamente los desafíos
+actuales del sistema educativo.
 ### 1.2.1 Antecedentes y problemática
-**Antecedentes:**
+**Antecedentes:**<br>
+En la actualidad, los procesos de matrícula escolar enfrentan importantes retos debido al uso de métodos manuales y
+sistemas desactualizados que generan ineficiencias significativas, como la duplicación de información, 
+errores humanos y una considerable pérdida de tiempo (González & Rivera, 2020). Según Martínez y López (2018), 
+estos sistemas no solo afectan la experiencia del alumno, sino también la productividad de los profesores, 
+quienes se ven obligados a destinar tiempo a tareas administrativas en lugar de enfocarse en actividades pedagógicas.
+
+Por otra parte, la transformación digital ha introducido herramientas que pueden optimizar los 
+procesos escolares, aunque su adopción sigue siendo limitada en instituciones educativas, 
+especialmente en áreas clave como la matrícula y el seguimiento académico (Rodríguez et al., 2019). 
+Esta brecha tecnológica dificulta la creación de entornos educativos eficientes, accesibles y centrados 
+en las necesidades de profesores y alumnos.
+**Problemática:**<br>
+* **Falta de automatización:** Los procesos manuales predominan en la gestión escolar, lo que resulta en ineficiencias
+operativas y una mayor propensión a errores. Según Torres y Méndez (2021), la ausencia de automatización incrementa 
+significativamente el tiempo invertido en la recopilación y validación de información.
+
+* **Deficiencia en la comunicación profesor-alumno:** La interacción limitada entre estas partes durante el proceso de 
+matrícula dificulta el intercambio de información relevante. Esteban y Vargas (2020) señalan que este problema afecta 
+directamente el seguimiento académico y la capacidad de respuesta ante consultas de los alumnos.
+
+* **Accesibilidad y usabilidad inadecuadas:** Los sistemas actuales suelen carecer de interfaces intuitivas o 
+compatibilidad con dispositivos móviles, lo que limita su uso, especialmente en contextos educativos rurales o
+con recursos tecnológicos escasos (Luna & Castillo, 2017).
+
+* **Falta de centralización de la información:** La dispersión de datos entre diferentes sistemas o departamentos 
+crea un entorno poco eficiente y aumenta la carga administrativa. Como lo menciona Ruiz (2019), 
+la centralización de datos es clave para garantizar la agilidad y transparencia en procesos escolares.
+
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
