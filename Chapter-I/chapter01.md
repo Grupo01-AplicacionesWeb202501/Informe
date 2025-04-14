@@ -33,12 +33,43 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
   </tr>
   <tr>
     <td>Renzo José Araujo Ingunza</td>
-    <img /></td></td>
+    <img/></td></td>
     <td>u202113612</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
   </tr>
+  <tr>
+    <td></td>
+    <img /></tr></tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <img /></tr></tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 
+  <tr>
+    <td></td>
+    <img /></tr></tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <img /></tr></tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
 </table>
 
 
