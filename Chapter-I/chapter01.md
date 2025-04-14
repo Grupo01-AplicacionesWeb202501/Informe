@@ -8,6 +8,17 @@ Nuestra misión es revolucionar los procesos de matrícula escolar mediante el d
 **Visión**<br>
 Nuestra visión es convertirnos en el líder tecnológico en soluciones educativas, siendo reconocidos por nuestra capacidad para transformar la gestión escolar con herramientas modernas y efectivas, promoviendo una educación más accesible, organizada y orientada hacia el futuro.
 
+**Objetivos**
+* Optimizar la gestión de matrículas escolares mediante una plataforma web intuitiva y eficiente que simplifique los procesos administrativos.
+
+* Facilitar la interacción entre profesores y alumnos, proporcionando herramientas que permitan una comunicación fluida y accesible.
+
+* Garantizar una experiencia educativa personalizada, adaptando las funcionalidades del sistema a las necesidades de los usuarios.
+
+* Promover la organización escolar eficiente, centralizando la información y los procesos relacionados con la matrícula y el seguimiento académico.
+
+* Innovar continuamente en nuestras soluciones tecnológicas, incorporando características que respondan a las tendencias y desafíos del sector educativo.
+
 ### 1.1.1. Descripción de la Startup
 
 ### 1.1.2. Perfiles de integrantes del equipo
