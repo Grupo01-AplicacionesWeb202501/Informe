@@ -172,4 +172,19 @@ durante el proceso.
 #### 1.2.2.4. Lean UX Canvas.
 ![img.png](img.png)
 Miro. (2025). Esquema de UX Canvas en Miro. Recuperado de https://miro.com/app/board/uXjVIC8rdRo=/?share_link_id=492063797630
-## 1.3. Segmentos objetivo.
+
+## 1.3. Segmentos objetivos.
+**Alumnos**
+
+* Aquellos estudiantes que desean matricularse de manera eficiente en sus cursos regulares.
+
+* Estudiantes interesados en inscribirse en talleres extracurriculares ofrecidos por la institución.
+
+* Estudiantes que necesitan organizar y establecer sus horarios académicos de manera ágil y ordenada.
+
+**Profesores**
+* Docentes que buscan revisar y gestionar los horarios de sus asignaturas y talleres.
+
+* Profesores que necesitan verificar los horarios y disponibilidad de aulas u otros recursos académicos.
+
+* Educadores que desean optimizar el proceso de administración académica para centrarse en la enseñanza.
