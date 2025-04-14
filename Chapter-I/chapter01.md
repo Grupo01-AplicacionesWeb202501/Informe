@@ -23,6 +23,25 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th>Miembros del equipo</th>
+    <th>Código del Estudiante</th>
+    <th>Carrera</th>
+    <th>Principales conocimientos / habilidades</th>
+  </tr>
+  <tr>
+    <td>Renzo José Araujo Ingunza</td>
+    <img /></td></td>
+    <td>u202113612</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
+  </tr>
+
+</table>
+
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
