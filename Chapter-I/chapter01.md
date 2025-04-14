@@ -29,44 +29,39 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
     <th>Principales conocimientos / habilidades</th>
   </tr>
   <tr>
-    <td>Renzo José Araujo Ingunza</td>
-    <img/></td></td>
+    <td><br>
+    <img /></td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Renzo José Araujo Ingunza<br>
+    <img src="https://github.com/user-attachments/assets/1213ab35-b4f7-486e-ad7d-f0217652144e"alt="logo-NutriSend" width="50"/></td></td>
     <td>u202113612</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
+  </tr> 
+  <tr>
+      <td><br>
+      <img /></td></td>
+    <td></td>
+    <td></td>
+    <td></tr>
+  <tr>
+    <td><br>
+    <img /></td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <img /></tr></tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <img /></tr></tr>
+    <td><br>
+    <img /></td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
-
-  <tr>
-    <td></td>
-    <img /></tr></tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <img /></tr></tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
 </table>
 
 
