@@ -20,10 +20,7 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
 
 * Innovar continuamente en nuestras soluciones tecnológicas, incorporando características que respondan a las tendencias y desafíos del sector educativo.
 
-
-
 ### 1.1.2. Perfiles de integrantes del equipo
-
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <tr>
     <th>Miembros del equipo</th>
@@ -75,7 +72,7 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-**Antecedentes:
+**Antecedentes:**
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
