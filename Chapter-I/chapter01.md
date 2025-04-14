@@ -81,28 +81,95 @@ Por otra parte, la transformación digital ha introducido herramientas que puede
 procesos escolares, aunque su adopción sigue siendo limitada en instituciones educativas, 
 especialmente en áreas clave como la matrícula y el seguimiento académico (Rodríguez et al., 2019). 
 Esta brecha tecnológica dificulta la creación de entornos educativos eficientes, accesibles y centrados 
-en las necesidades de profesores y alumnos.
-**Problemática:**<br>
-* **Falta de automatización:** Los procesos manuales predominan en la gestión escolar, lo que resulta en ineficiencias
-operativas y una mayor propensión a errores. Según Torres y Méndez (2021), la ausencia de automatización incrementa 
-significativamente el tiempo invertido en la recopilación y validación de información.
+en las necesidades de profesores y alumnos.<br>
+<br>**Problemática:**<br>
+para determinar la problemática se abortó la técnica de las 5 W's, 2H's. Esto nos ayudará a tener una 
+idea más clara de la problemática que nos encontramos.<br>
+**Who (Quién):**<br>
+Eduflow está diseñado para instituciones educativas, específicamente colegios, así como para profesores y alumnos. 
+Los principales beneficiarios son:<br>
+* Administradores escolares: Facilitan la gestión de matrículas.
+* Profesores: Les permite interactuar directamente con los estudiantes y simplificar la asignación de cursos.
+* Estudiantes: Mejora la experiencia de matrícula al hacerla más eficiente y accesible.
 
-* **Deficiencia en la comunicación profesor-alumno:** La interacción limitada entre estas partes durante el proceso de 
-matrícula dificulta el intercambio de información relevante. Esteban y Vargas (2020) señalan que este problema afecta 
-directamente el seguimiento académico y la capacidad de respuesta ante consultas de los alumnos.
+**What (Qué):**<br>
+Eduflow es una solución de software como aplicación web que optimiza el proceso de matrícula
+escolar, permitiendo la automatización, centralización de datos y mejorando la comunicación
+entre profesores y alumnos.
 
-* **Accesibilidad y usabilidad inadecuadas:** Los sistemas actuales suelen carecer de interfaces intuitivas o 
-compatibilidad con dispositivos móviles, lo que limita su uso, especialmente en contextos educativos rurales o
-con recursos tecnológicos escasos (Luna & Castillo, 2017).
+**When (Cuándo):**<br>
+Este proyecto se implementará en un plazo estimado de seis meses para su versión inicial,
+que incluirá las funciones esenciales. La implementación completa dependerá de los ajustes 
+posteriores según los feedbacks de usuarios.
 
-* **Falta de centralización de la información:** La dispersión de datos entre diferentes sistemas o departamentos 
-crea un entorno poco eficiente y aumenta la carga administrativa. Como lo menciona Ruiz (2019), 
-la centralización de datos es clave para garantizar la agilidad y transparencia en procesos escolares.
+**Where (Dónde):**<br>
+Eduflow será accesible desde cualquier lugar con conexión a internet, a través de navegadores 
+web y dispositivos móviles. Se planea implementar primero en instituciones educativas locales, 
+expandiéndose luego a nivel regional y nacional.
 
+**Why (Por qué):**<br>
 
+* Problema actual: Los procesos manuales de matrícula generan ineficiencia, errores y pérdida de tiempo.
+
+* Oportunidad: Facilitar el acceso a herramientas digitales que automaticen y optimicen el proceso
+  de matrícula, mejorando la experiencia de todos los usuarios.
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+**¿Cómo podemos desarrollar una solución digital eficiente que facilite el proceso de matrícula en colegios, 
+reduciendo el tiempo y los errores, mientras mejoramos la experiencia de alumnos, padres y administradores escolares?**
+
+Para colegios que enfrentan dificultades en sus procesos manuales de matrícula, Eduflow aborda el reto de ofrecer
+una plataforma centralizada y automatizada que optimice la inscripción, minimice errores y fomente una experiencia 
+más clara y ordenada para todos los usuarios involucrados.
+
+**¿Cómo podemos diseñar una herramienta que permita a profesores y alumnos interactuar directamente durante el proceso 
+de asignación de cursos, fomentando una mayor organización y comunicación en el entorno académico?**
+
+Para profesores y alumnos que necesitan gestionar horarios y asignaciones de forma eficiente, Eduflow responde a la 
+necesidad de un canal interactivo que facilite el intercambio de información, mejore la comunicación y reduzca las
+barreras administrativas en el ámbito escolar.
 #### 1.2.2.2. Lean UX Assumptions.
+* **Business Assumptions:**
+Asumimos que Eduflow podrá captar una participación importante del mercado educativo al abordar la creciente 
+necesidad de digitalizar y automatizar procesos administrativos en colegios.
+
+* **Business Outcomes Assumptions:**
+Creemos que la adopción de nuestra plataforma incrementará la eficiencia operativa de los colegios, reduciendo los 
+tiempos de matrícula en un 50% y aumentando la satisfacción de alumnos, padres y administradores.
+
+* **User Assumptions:**
+Asumimos que los usuarios valoran un sistema rápido, intuitivo y confiable que les permita realizar matrículas sin 
+complicaciones ni errores.
+
+* **User Outcomes Assumptions:**
+Creemos que los usuarios estarán dispuestos a recomendar Eduflow si les proporciona una experiencia fluida y optimiza 
+sus interacciones académicas.<br>
+Creemos que padres y estudiantes verán en Eduflow una solución moderna que reducirá su frustración con los métodos 
+tradicionales de matrícula.
+
+* **Feature Assumptions:**
+Suponemos que funcionalidades como la automatización de matrículas, notificaciones en tiempo real y un portal 
+interactivo para la comunicación entre profesores y alumnos serán determinantes para el éxito de Eduflow.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+* Nosotros creemos que si ofrecemos una plataforma intuitiva y fácil de usar para el proceso de matrícula, sabremos 
+que es verdad cuando observemos una disminución significativa en los tiempos de inscripción y un aumento en la
+satisfacción de los usuarios.
+
+* Nosotros creemos que si proporcionamos herramientas que faciliten la comunicación entre profesores y alumnos, sabremos
+que es verdad cuando se incremente el uso de las funcionalidades interactivas de la plataforma y se reporten menos
+problemas de coordinación académica.
+
+* Nosotros creemos que si automatizamos los procesos administrativos de matrícula, sabremos que es verdad cuando los 
+colegios reporten una reducción en errores administrativos y una mejora en la organización general.
+
+* Nosotros creemos que si ofrecemos soporte técnico rápido y eficiente, sabremos que es verdad cuando los usuarios 
+resuelvan sus problemas en menos tiempo y expresen confianza en la plataforma.
+
+* Nosotros creemos que si integramos notificaciones en tiempo real sobre fechas, horarios y actualizaciones de 
+matrícula, sabremos que es verdad cuando los usuarios reporten sentirse mejor informados y preparados 
+durante el proceso.
 #### 1.2.2.4. Lean UX Canvas.
+![img.png](img.png)
+Miro. (2025). Esquema de UX Canvas en Miro. Recuperado de https://miro.com/app/board/uXjVIC8rdRo=/?share_link_id=492063797630
 ## 1.3. Segmentos objetivo.
