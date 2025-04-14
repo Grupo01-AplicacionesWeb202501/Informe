@@ -1,6 +1,7 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+En esta sección veremos diversos puntos acerca de la configuración de las herramnientas necesarias para el desarrollo del proyecto, desde la Landing Page hasta el proyecto final con el backend incluído. Se verán las herramientas utilizadas para el diseño UX/UI, Style Guide Conventions, Deployment Configuration y más.
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
