@@ -5,6 +5,11 @@ En esta sección veremos diversos puntos acerca de la configuración de las herr
 
 En esta parte del proyecto se verán las herramientas que utilizaremos para cada fase de la creación del proyecto.
 
+**Organización del proyecto**
+
+Para organizarnos en la asignación de tareas fue necesario la creación de reuniones para poder coordinar lo necesario y tener una organización. Para esto usamos:
+- **Discord:** Discord es una red social que es útil para crear grupos y comunidades, en este caso usamos la creación de un grupo de Discord para la realización de llamadas grupales.  
+
 **Diseño UX/UI**
 
 Es importante verificar las necesidades de los usuarios a la hora de crear una aplicación, por lo que es necesario la creación de maquetas, wireframes, mockups e interfaces para establecer un estándar que satisfaga a los usuarios. Para ello, utilizaremos diversos software, como:
