@@ -1,6 +1,6 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
-En esta sección veremos diversos puntos acerca de la configuración de las herramnientas necesarias para el desarrollo del proyecto, desde la Landing Page hasta el proyecto final con el backend incluído. Se verán las herramientas utilizadas para el diseño UX/UI, Style Guide Conventions, Deployment Configuration y más
+En esta sección veremos diversos puntos acerca de la configuración de las herramientas necesarias para el desarrollo del proyecto, desde la Landing Page hasta el proyecto final con el backend incluído. Se verán las herramientas utilizadas para el diseño UX/UI, Style Guide Conventions, Deployment Configuration y más.
 ### 5.1.1. Software Development Environment Configuration.
 
 En esta parte del proyecto se verán las herramientas que utilizaremos para cada fase de la creación del proyecto.
@@ -14,7 +14,7 @@ Para organizarnos en la asignación de tareas fue necesario la creación de reun
 
 Es importante verificar las necesidades de los usuarios a la hora de crear una aplicación, por lo que es necesario la creación de maquetas, wireframes, mockups e interfaces para establecer un estándar que satisfaga a los usuarios. Para ello, utilizaremos diversos software, como:
 
-- **Figma:** Es una aplicación muy util para diseñar wireframes y mockups, que serviran como una guía para poder realizar el diseño final al pasarlo a código.
+- **Figma:** Es una aplicación muy útil para diseñar wireframes y mockups, que servirán como una guía para poder realizar el diseño final al pasarlo a código.
 - **UXPressia:** Herramienta útil para la creación de User Personas, Emphaty Maps, Journey Mappings, etc. La mayoría de documentación relacionada a la experiencia de usuario se hizo con esta herramienta.
 - **Miro:** Una pizarra colaborativa en donde varios usuarios pueden trabajar a la vez para la creación de wireframes, braimstormings, mapas mentales, etc.
 - **LucidChart:** Herramienta útil para la realización de diagramas UML, diagramas de flujo, modelos C4, entre otros. Al igual que Miro, varios usuarios pueden colaborar en una misma pizarra.
