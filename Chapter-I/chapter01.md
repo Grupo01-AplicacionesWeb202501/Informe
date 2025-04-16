@@ -183,8 +183,13 @@ resuelvan sus problemas en menos tiempo y expresen confianza en la plataforma.
 matrícula, sabremos que es verdad cuando los usuarios reporten sentirse mejor informados y preparados 
 durante el proceso.
 #### 1.2.2.4. Lean UX Canvas.
+El Lean UX Canvas es una herramienta diseñada para que los equipos representen y comprendan de
+manera clara y concisa los elementos esenciales de su proyecto. En esta sección, se analizará 
+cómo el Canvas promueve la colaboración y la alineación del equipo al delinear de forma procisa
+el problema, la solución planteada, los usuarios y sus necesidades, junto con las métricas para 
+medir el éxito.
 ![img.png](img.png)
-Miro. (2025). Esquema de UX Canvas en Miro. Recuperado de https://miro.com/app/board/uXjVIC8rdRo=/?share_link_id=492063797630
+Miro. (2025). Esquema de UX Canvas en Miro. Recuperado de: https://miro.com/app/board/uXjVIC8rdRo=/?share_link_id=492063797630
 
 ## 1.3. Segmentos objetivos.
 **Alumnos**
