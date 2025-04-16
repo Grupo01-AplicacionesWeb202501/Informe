@@ -1,5 +1,13 @@
  # Capítulo I: Introducción
+ La introducción desempeña un papel fundamental al establecer el contexto en el que se 
+desarrollará el proyecto. Ofrece una perspectiva general sobre los objetivos, antecedentes y el 
+alcance del trabajo planteado. Asimismo, permite resaltar la relevancia del proyecto, subrayando
+las motivaciones que lo impulsan y los problemas que busca abordar.
 ## 1.1. Startup Profile
+El perfil de una startup es esencial para entender su visión, valores centrales y propuesta
+distintiva en el mercado. En esta sección, se analizarán los aspectos fundamentales que 
+conforman la identidad y el potencial de una startup, incluyendo su trayectoria, enfoque innovador
+y objetivos a largo plazo.
 ### 1.1.1. Descripción de la Startup
 Eduflow es una startup innovadora fundada por estudiantes de Ingeniería de Software, comprometida con la creación de soluciones tecnológicas que optimicen y transformen los procesos educativos. Nuestra principal propuesta es una aplicación web diseñada específicamente para simplificar y mejorar la experiencia de matrícula de alumnos en colegios, reduciendo fricciones y promoviendo una gestión más eficiente. A través de un enfoque centrado en las necesidades de los usuarios, buscamos aportar al desarrollo del sector educativo, brindando herramientas prácticas, intuitivas y accesibles para todos los involucrados.
 
