@@ -122,6 +122,11 @@ expandiéndose luego a nivel regional y nacional.
 * Oportunidad: Facilitar el acceso a herramientas digitales que automaticen y optimicen el proceso
   de matrícula, mejorando la experiencia de todos los usuarios.
 ### 1.2.2 Lean UX Process.
+El proceso Lean UX es una metodología ágil que transforma el diseño y desarrollo de productos
+digitales. En esta sección, se examinarán los principios clave de Lean UX y su integración en el ciclo de 
+desarrollo de productos. A través de la colaboración interdisciplinaria, la iteración ágil y 
+la validación constante, se destacará cómo este enfoque ayuda a los equipos a crear productos enfocados en el 
+usuario de forma eficiente y efectiva.
 #### 1.2.2.1. Lean UX Problem Statements.
 **¿Cómo podemos desarrollar una solución digital eficiente que facilite el proceso de matrícula en colegios, 
 reduciendo el tiempo y los errores, mientras mejoramos la experiencia de alumnos, padres y administradores escolares?**
