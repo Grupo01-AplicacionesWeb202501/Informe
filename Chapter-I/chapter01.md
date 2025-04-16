@@ -93,34 +93,17 @@ en las necesidades de profesores y alumnos.<br>
 <br>**Problemática:**<br>
 para determinar la problemática se abortó la técnica de las 5 W's, 2H's. Esto nos ayudará a tener una 
 idea más clara de la problemática que nos encontramos.<br>
-**Who (Quién):**<br>
-Eduflow está diseñado para instituciones educativas, específicamente colegios, así como para profesores y alumnos. 
-Los principales beneficiarios son:<br>
-* Administradores escolares: Facilitan la gestión de matrículas.
-* Profesores: Les permite interactuar directamente con los estudiantes y simplificar la asignación de cursos.
-* Estudiantes: Mejora la experiencia de matrícula al hacerla más eficiente y accesible.
 
-**What (Qué):**<br>
-Eduflow es una solución de software como aplicación web que optimiza el proceso de matrícula
-escolar, permitiendo la automatización, centralización de datos y mejorando la comunicación
-entre profesores y alumnos.
+| LAS 5W y 2H  | Pregunta        | Descripción                                                                                                                                                  |
+|--------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Who**      | ¿Quién?         | Eduflow está dirigido a instituciones educativas (colegios), profesores y estudiantes. Beneficiarios: administradores escolares, profesores y alumnos.       |
+| **What**     | ¿Qué?           | Es una aplicación web que optimiza el proceso de matrícula escolar, automatiza tareas, centraliza datos y mejora la comunicación entre profesores y alumnos. |
+| **When**     | ¿Cuándo?        | La versión inicial se desarrollará en 6 meses. La implementación completa dependerá de los ajustes según el feedback de los usuarios.                        |
+| **Where**    | ¿Dónde?         | Será accesible desde cualquier dispositivo con conexión a internet. Se iniciará en instituciones locales y se expandirá a nivel regional y nacional.         |
+| **Why**      | ¿Por qué?       | Para resolver problemas de ineficiencia y errores del proceso manual de matrícula, y aprovechar la oportunidad de digitalizar y mejorar la experiencia.      |
+| **How**      | ¿Cómo?          | Mediante una plataforma web intuitiva donde los usuarios pueden registrarse, gestionar matrículas y comunicarse de forma ágil y eficiente.                   |
+| **How Much** | ¿Cuánto cuesta? | (A definir) Se puede considerar un modelo freemium para escuelas pequeñas, y planes por suscripción o licencia para instituciones más grandes.               |
 
-**When (Cuándo):**<br>
-Este proyecto se implementará en un plazo estimado de seis meses para su versión inicial,
-que incluirá las funciones esenciales. La implementación completa dependerá de los ajustes 
-posteriores según los feedbacks de usuarios.
-
-**Where (Dónde):**<br>
-Eduflow será accesible desde cualquier lugar con conexión a internet, a través de navegadores 
-web y dispositivos móviles. Se planea implementar primero en instituciones educativas locales, 
-expandiéndose luego a nivel regional y nacional.
-
-**Why (Por qué):**<br>
-
-* Problema actual: Los procesos manuales de matrícula generan ineficiencia, errores y pérdida de tiempo.
-
-* Oportunidad: Facilitar el acceso a herramientas digitales que automaticen y optimicen el proceso
-  de matrícula, mejorando la experiencia de todos los usuarios.
 ### 1.2.2 Lean UX Process.
 El proceso Lean UX es una metodología ágil que transforma el diseño y desarrollo de productos
 digitales. En esta sección, se examinarán los principios clave de Lean UX y su integración en el ciclo de 
