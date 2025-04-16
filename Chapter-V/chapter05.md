@@ -111,6 +111,7 @@ Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Net
     <td>8</td>
   </tr> 
 </table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 #### 5.2.1.3. Sprint Backlog 1.
