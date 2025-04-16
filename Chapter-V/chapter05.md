@@ -124,6 +124,7 @@ Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Net
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta sección mostraremos la evidencia de la creación de la Landing Page. Se presentarán capturas sobre algunas de las funciones principales.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
