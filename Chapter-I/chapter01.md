@@ -37,11 +37,11 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
     <th>Principales conocimientos / habilidades</th>
   </tr>
   <tr>
-    <td><br>
+    <td>Adrian Alonso Calle Huayanca<br>
     <img /></td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>U202011657</td>
+    <td>Ingeniera de Software</td>
+    <td>Conocimientos en redes, estructura de datos, base de datos. Habilidad de trabajar en equipo, soy comunicativo, solución de problemas y pensamiento crítico.</td>
   </tr>
   <tr>
     <td>Renzo José Araujo Ingunza<br>
@@ -51,17 +51,17 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
     <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
   </tr> 
   <tr>
-      <td><br>
+      <td>Kevin Alexander Castañeda Llanos<br>
       <img /></td></td>
-    <td></td>
-    <td></td>
-    <td></tr>
+    <td>U202318814</td>
+    <td>Ingeniería de Software</td>
+    <td>Conocimiento en programación en Python, Javascript, HTML y CSS. Además de un nivel intermedio en base de datos (SQL Server y MySQL) .</tr>
   <tr>
-    <td><br>
+    <td>Rodrigo Nicolas Mechan Chumpitaz<br>
     <img /></td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>U202114649</td>
+    <td>Ingeniera de Software</td>
+    <td>Domino fundamentos de programación, estructuras de datos, bases de datos, algoritmos y tengo habilidades en trabajo en equipo, resolución de problemas y pensamiento lógico.</td>
   </tr>
   <tr>
     <td><br>
