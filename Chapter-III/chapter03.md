@@ -1,5 +1,29 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
+### 🎓 Alumno – Proceso de Inscripción y Gestión Académica
+| **Steps**             | **Doing**                                     | **Thinking**                                       | **Feeling**                  |
+|-----------------------|-----------------------------------------------|----------------------------------------------------|------------------------------|
+| Ingreso al sistema    | Abre Eduflow e inicia sesión                  | “Quiero revisar mis cursos y horarios.”            | Motivado                     |
+| Explora cursos        | Navega por el catálogo de cursos              | “¿Cuál se adapta mejor a mis intereses y horario?” | Curioso                      |
+| Se inscribe en curso  | Selecciona un curso y hace clic en "Inscribirse" | “Espero que haya cupo disponible.”              | Ansioso pero emocionado      |
+| Revisa confirmación   | Recibe notificación y correo de confirmación  | “Perfecto, ya estoy inscrito.”                     | Aliviado y satisfecho        |
+| Ver horario           | Consulta calendario de clases                 | “Quiero organizar mis tiempos.”                    | En control                   |
+| Participa en clases   | Asiste a clases según el calendario           | “Este curso me está ayudando bastante.”            | Interesado y comprometido    |
+| Consulta historial    | Ve inscripciones pasadas                      | “Quiero ver cómo me ha ido en ciclos anteriores.”  | Reflexivo y organizado       |
+
+###👨‍🏫 Profesor – Gestión de Cursos y Comunicación
+| **Steps**             | **Doing**                                     | **Thinking**                                       | **Feeling**                  |
+|-----------------------|-----------------------------------------------|----------------------------------------------------|------------------------------|
+| Inicia sesión         | Accede a Eduflow como docente                 | “Veamos qué cursos tengo asignados este ciclo.”    | Curioso pero enfocado        |
+| Revisa cursos         | Consulta su panel con los cursos asignados    | “Quiero revisar la cantidad de alumnos.”           | Preparado                    |
+| Organiza clases       | Sube materiales y organiza el contenido       | “Necesito que los alumnos tengan todo desde el inicio.” | Responsable              |
+| Comunica a estudiantes| Envía mensaje masivo a alumnos inscritos      | “Quiero que estén al tanto del primer día de clases.”| Proactivo                  |
+| Toma asistencia       | Marca asistencia desde la plataforma          | “Quiero llevar todo en orden.”                     | Ordenado                     |
+| Evalúa progreso       | Revisa participación y rendimiento            | “¿Cómo van avanzando mis alumnos?”                 | Comprometido                 |
+| Cierra ciclo          | Sube notas finales y deja feedback            | “Quiero que todos sepan cómo mejorar.”             | Cumplido y reflexivo         |
+
+
+
 ## 3.2. User Stories.
 | **Epic/User Story ID** | **Titulo**                                      | **Descripcion**                                       | **Criterios de aceptación**      | **Relacionado con Epic (ID)**   |
 |------------------------|-------------------------------------------------|-------------------------------------------------------|----------------------------------|--------------------------------|
