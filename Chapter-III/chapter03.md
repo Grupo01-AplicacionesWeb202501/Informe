@@ -57,3 +57,44 @@
 
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
+
+| **#orden**  |**User Story Id**          | **Titulo**                                     | **Descripcion**                                                                  | **Story Points**               |
+|-------------|---------------------------|------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------|
+| 1           | US-001                    | Registro de nuevos usuarios                   | Como usuario nuevo, quiero registrarme fácilmente para acceder a la plataforma. | 3                              |
+| 2           | US-002                    | Inicio de sesión seguro                       | Como usuario registrado, quiero iniciar sesión de forma segura en Eduflow.      | 3                              |
+| 3           | US-003                    | Recuperar contraseña                          | Como usuario, quiero recuperar mi contraseña si la olvido.                       | 2                              |
+| 4           | US-004                    | Ver cursos disponibles                        | Como alumno, quiero ver todos los cursos disponibles para poder inscribirme.     | 5                              |
+| 5           | US-005                    | Inscribirse en un curso                       | Como alumno, quiero poder inscribirme en los cursos que elijo.                   | 5                              |
+| 6           | US-006                    | Ver horarios asignados                        | Como alumno, quiero ver mis horarios de clases luego de la matrícula.           | 3                              |
+| 7           | US-007                    | Confirmación por correo                       | Como alumno, quiero recibir confirmación por correo al completar mi matrícula.   | 2                              |
+| 8           | US-008                    | Asignación de aulas                           | Como profesor, quiero ver la disponibilidad de aulas para organizar mis clases. | 3                              |
+| 9           | US-009                    | Crear taller extracurricular                  | Como profesor, quiero poder crear talleres adicionales en la plataforma.         | 5                              |
+| 10          | US-010                    | Notificaciones en tiempo real                 | Como usuario, quiero recibir notificaciones de matrícula o cambios importantes.  | 3                              |
+| 11          | US-011                    | Editar perfil de usuario                      | Como usuario, quiero poder editar mi información personal en el sistema.         | 2                              |
+| 12          | US-012                    | Panel de control para administradores         | Como administrador, quiero un panel para gestionar inscripciones y reportes.     | 8                              |
+| 13          | US-013                    | Reporte de matrícula por curso                | Como administrador, quiero ver estadísticas de matrícula por curso.              | 5                              |
+| 14          | US-014                    | Asignar alumnos a secciones automáticamente   | Como sistema, quiero asignar secciones según disponibilidad y cupo.              | 8                              |
+| 15          | US-015                    | Validación de datos de inscripción            | Como sistema, quiero validar que los datos ingresados por los alumnos sean válidos.| 3                             |
+| 16          | US-016                    | Filtro de cursos por categoría                | Como alumno, quiero filtrar los cursos por tipo o área temática.                 | 3                              |
+| 17          | US-017                    | Historial de inscripciones                    | Como alumno, quiero ver un historial de mis cursos inscritos anteriormente.      | 3                              |
+| 18          | US-018                    | Cancelar inscripción                          | Como alumno, quiero poder cancelar una inscripción si cambio de decisión.        | 4                              |
+| 19          | US-019                    | Cierre automático de matrículas               | Como sistema, quiero cerrar automáticamente los cursos cuando se llenan los cupos.| 5                             |
+| 20          | US-020                    | Asignar docentes a cursos                     | Como administrador, quiero poder asignar fácilmente profesores a los cursos.     | 4                              |
+| 21          | US-021                    | Visualización de disponibilidad de cupos      | Como alumno, quiero ver cuántos cupos quedan en un curso.                        | 3                              |
+| 22          | US-022                    | Gestión de perfiles de profesores             | Como administrador, quiero gestionar la información de los docentes.             | 4                              |
+| 23          | US-023                    | Envío de mensajes internos                    | Como profesor, quiero enviar mensajes a los alumnos inscritos.                   | 5                              |
+| 24          | US-024                    | Búsqueda avanzada de cursos                   | Como alumno, quiero buscar cursos por nombre, área y horario.                    | 4                              |
+| 25          | US-025                    | Asignación manual de secciones                | Como administrador, quiero poder asignar manualmente estudiantes a secciones.    | 4                              |
+| 26          | US-026                    | Visualización del calendario académico        | Como alumno, quiero ver un calendario con las fechas clave del ciclo académico.  | 3                              |
+| 27          | US-027                    | Acceso rápido a preguntas frecuentes (FAQ)    | Como usuario, quiero acceder fácilmente a las preguntas frecuentes del sistema.  | 2                              |
+| 28          | US-028                    | Soporte técnico en línea                      | Como usuario, quiero tener acceso rápido a soporte técnico si tengo dudas.       | 3                              |
+| 29          | US-029                    | Gestión de conflictos de horario              | Como sistema, quiero alertar al alumno si hay conflictos de horarios al inscribirse.| 5                          |
+| 30          | US-030                    | Creación de perfiles administrativos          | Como administrador principal, quiero poder crear cuentas de otros administradores.| 3                             |
+| 31          | US-031                    | Reasignación de cursos por baja de profesor   | Como administrador, quiero reasignar rápidamente un curso si el profesor se retira.| 5                             |
+| 32          | US-032                    | Estadísticas de uso de la plataforma          | Como administrador, quiero ver datos de uso general de la plataforma.            | 4                              |
+| 33          | US-033                    | Recordatorios automáticos por email           | Como sistema, quiero enviar recordatorios de inscripción antes del cierre.       | 3                              |
+| 34          | US-034                    | Exportación de reportes                       | Como administrador, quiero exportar reportes de inscripción a Excel o PDF.       | 3                              |
+| 35          | US-035                    | Acceso móvil optimizado                       | Como usuario, quiero que la plataforma funcione correctamente en dispositivos móviles.| 4                          |
+
+
+
