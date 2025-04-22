@@ -1,7 +1,6 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
-
 | **Epic/User Story ID** | **Titulo**                                      | **Descripcion**                                       | **Criterios de aceptación**      | **Relacionado con Epic (ID)**   |
 |------------------------|-------------------------------------------------|-------------------------------------------------------|----------------------------------|--------------------------------|
 | **EP-001**             | Optimización del proceso de matrícula           | La épica aborda la automatización y simplificación del proceso de matrícula para estudiantes y administradores. | Dado que el usuario está en la pantalla de inicio, cuando selecciona "Iniciar sesión", entonces debe ver la pantalla de ingreso de credenciales. Dado que el usuario olvidó su contraseña, cuando selecciona "Olvidé mi contraseña", entonces debe recibir instrucciones para recuperarla por correo. | **EP-001** |
@@ -40,6 +39,8 @@
 | **US-028**             | Configuración de notificaciones por materia     | Como estudiante, quiero configurar las notificaciones solo para las materias que me interesan. | Dado que soy un estudiante, cuando configuro mis notificaciones, entonces selecciono las materias para las que quiero recibir alertas. | **EP-006** |
 | **US-029**             | Notificación de actualización de perfil         | Como estudiante, quiero recibir una notificación cuando mi perfil sea actualizado. | Dado que soy un estudiante, cuando mi perfil es actualizado, entonces recibo una notificación informándome. | **EP-006** |
 | **US-030**             | Resumen diario de actividades                   | Como usuario, quiero recibir un resumen diario con mis actividades y tareas programadas. | Dado que soy un usuario, cuando accedo a mi portal por la mañana, entonces veo un resumen de mis actividades del día. | **EP-006** |
+
+
 
 
 ## 3.3. Impact Mapping.
