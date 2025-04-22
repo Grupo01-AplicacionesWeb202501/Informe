@@ -11,7 +11,7 @@
 | Participa en clases   | Asiste a clases según el calendario           | “Este curso me está ayudando bastante.”            | Interesado y comprometido    |
 | Consulta historial    | Ve inscripciones pasadas                      | “Quiero ver cómo me ha ido en ciclos anteriores.”  | Reflexivo y organizado       |
 
-###👨‍🏫 Profesor – Gestión de Cursos y Comunicación
+### 👨‍🏫 Profesor – Gestión de Cursos y Comunicación
 | **Steps**             | **Doing**                                     | **Thinking**                                       | **Feeling**                  |
 |-----------------------|-----------------------------------------------|----------------------------------------------------|------------------------------|
 | Inicia sesión         | Accede a Eduflow como docente                 | “Veamos qué cursos tengo asignados este ciclo.”    | Curioso pero enfocado        |
