@@ -37,6 +37,12 @@ En esta parte se verán los programas o IDE's utilizados pacra la creación del 
 Flujo de trabajo de GitFlow
 
 Nos centraremos en un modelo el cual es muy usado desde el 2010, en donde tendremos en cuenta ramas para producción, pruebas, features, arreglos de bug, entre otros.
+<img src= "..\Chapter-V\images\git-model.png" alt="Git Model">
+
+Teniendo en cuenta la imagen, tendremos lo siguiente:
+  - Main branch: Será la rama principal, la cual se entregará a producción, es decir, la rama final.
+  - Develop branch: Esta rama se encargará de implementar los diversos commits para posteriormente colocarlos en el Main branch.
+  - Features branch: Cada feature tendra su propia rama, en donde posteriormente se combinará con el Develop branch. 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
