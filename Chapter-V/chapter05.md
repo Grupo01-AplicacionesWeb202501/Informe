@@ -136,6 +136,7 @@ Mostraremos un video cargado en Microsoft Stream acerca de las funcionalidades e
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EXspQ-QqvTVIsFm0_i13sLsBeiCkZDpyXSTJNAnxcJmrEg?e=iFd0fF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+No se han implementado servicios para el Landing Page, por lo que no se tiene documentación de los servicios. Además, la aplicación aún no está desarrollada, por lo que los servicios para el aplicativo web aun no estan realizados.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Se mostrarán algunas evidencias sobre la realización del Sprint 1.
@@ -150,7 +151,7 @@ Se mostrarán algunas evidencias sobre la realización del Sprint 1.
 <img src= "..\Chapter-V\images\landing-information.png" alt="Landing Page Information">
 
 
-**Enlace creado en netlify de la Landing Page**
+**Enlace creado en Netlify de la Landing Page**
 <img src= "..\Chapter-V\images\landing-link.png" alt="Landing Page link">
 
 
@@ -158,25 +159,13 @@ Se mostrarán algunas evidencias sobre la realización del Sprint 1.
 <img src= "..\Chapter-V\images\landing-web.png" alt="Landing Page en la web">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+Se mostrarán algunas imagenes respecto a la contribución durante la realización del Sprint 1.
+
+<img src= "..\Chapter-V\images\contributors-spring.png" alt="Landing Page en la web">
 
 
-## 5.3. Validation Interviews.
 
-### 5.3.1. Diseño de Entrevistas.
+<img src= "..\Chapter-V\images\network-graph.png" alt="Landing Page en la web">
 
-### 5.3.2. Registro de Entrevistas.
 
-### 5.3.3. Evaluaciones según heurísticas.
-
-## 5.4. Video About-the-Product.
-
-# Conclusiones
-
-## Conclusiones y recomendaciones.
-
-## Video About-the-Team.
-
-# Bibliografía 
-
-# Anexos
 
