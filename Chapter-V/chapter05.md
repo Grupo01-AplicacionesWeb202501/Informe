@@ -121,15 +121,46 @@ Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Net
 | US042 | Call to Action | TS02 | Implementación de botones y enlaces internos | Implementación de botones y enlaces internos en la página web para llevar al usuario a secciones. | 2 hours | Kevin | Done |
 | US043 | Características | TS03 | Implementación de la sección "Características | Implementación de la sección "Características", con los aspectos positivos de la app. | 2 hours | Kevin | Done |
 
+## 5.2.1.4 Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
+| :---: | :---: | :---: | :---: | ----- | :---: |
+| AplicacionesWeb202501-Landing-Page | main | b989d017838347ff1987ea4004f79bb420a7b09f | Feature: Initial commit | —---------- | 21/04/2025 |
+| AplicacionesWeb202501-Landing-Page | main | c526d4c88fca4e17eca3831e8193f2be6fcc484d | Feature: add README description | —---------- | 21/04/2025 |
+| AplicacionesWeb202501-Landing-Page | main | 2a3499a545b1bc1b4db6a2cbba63e420e1aa0932 | Feature: Add Landing Page Resources | —---------- | 21/04/2025 |
+| AplicacionesWeb202501-Landing-Page | main | 15fcf7a4a10d3cd20698f8e3143d4ea5d1ed4b99 | Feature: Merge branch 'main' of https://github.com/Grupo01-AplicacionesWeb202501/Landing-Page
+ | —---------- | 21/04/2025 |
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Mostraremos un video cargado en Microsoft Stream acerca de las funcionalidades e interfaz de la Landing Page.
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EXspQ-QqvTVIsFm0_i13sLsBeiCkZDpyXSTJNAnxcJmrEg?e=iFd0fF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Se mostrarán algunas evidencias sobre la realización del Sprint 1.
-
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Se mostrarán algunas evidencias sobre la realización del Sprint 1.
+
+**Información del despliegue de la Landing Page**
+<img src= "..\Chapter-V\images\deploy-landing.png" alt="Landing Page Deploy">
+
+
+**Información de la Landing Page**
+<img src= "..\Chapter-V\images\landing-information.png" alt="Landing Page Information">
+
+
+**Enlace creado en netlify de la Landing Page**
+<img src= "..\Chapter-V\images\landing-link.png" alt="Landing Page link">
+
+
+**Landing Page en la web** 
+<img src= "..\Chapter-V\images\landing-web.png" alt="Landing Page en la web">
+
+
+
+
+
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
