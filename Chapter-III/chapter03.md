@@ -122,6 +122,10 @@
 | 33          | US-033                    | Recordatorios automáticos por email           | Como sistema, quiero enviar recordatorios de inscripción antes del cierre.       | 3                              |
 | 34          | US-034                    | Exportación de reportes                       | Como administrador, quiero exportar reportes de inscripción a Excel o PDF.       | 3                              |
 | 35          | US-035                    | Acceso móvil optimizado                       | Como usuario, quiero que la plataforma funcione correctamente en dispositivos móviles.| 4                          |
+| 36          | US-041                    | Menú de navegación                       | Como usuario, quiero tener en la Landing Page, un menú de navegación para poder navegar por cada sección de la página.| 4                          |
+| 37         | US-042                    | Call To Action                       | Como usuario, quiero que la Landing Page, tenga botonces y enlaces internos que me lleven a ciertas secciones.| 4                          |
+| 38          | US-043                    | Características                      | Como usuario, quiero que la Landing Page, tenga las características de la aplicación web.| 3                         |
+
 
 
 
