@@ -29,6 +29,14 @@ En esta parte se verán los programas o IDE's utilizados pacra la creación del 
 
 - **GitHub:** Usaremos GitHub para controlar el repositorio del proyecto y gestionar las versiones del código y de la documentación en estilo Markdown. Github es una herramienta muy importante para la creación de proyectos ya que ayuda a la colaboración de varios programadores y de el seguimiento de cambios del código.
 ### 5.1.2. Source Code Management.
+| Producto             | Repositorio           | URL                                                                 |
+|----------------------|-----------------------|----------------------------------------------------------------------|
+| Landing Page         | Landing-Page   | [https://github.com/Grupo01-AplicacionesWeb202501/Landing-Page](https://github.com/Grupo01-AplicacionesWeb202501/Landing-Page)                                                                      |
+| Reporte         | Informe   | [https://github.com/Grupo01-AplicacionesWeb202501/Informe](https://github.com/Grupo01-AplicacionesWeb202501/Informe) |
+
+Flujo de trabajo de GitFlow
+
+Nos centraremos en un modelo el cual es muy usado desde el 2010, en donde tendremos en cuenta ramas para producción, pruebas, features, arreglos de bug, entre otros.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
