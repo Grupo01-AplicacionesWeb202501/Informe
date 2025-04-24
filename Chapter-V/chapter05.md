@@ -96,19 +96,30 @@ Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Net
 | Time         | 7:00 pm   |
 | Location | Virtual - Discord |
 | Prepared By | Kevin Castañeda Llanos |
-| Attendees | Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza, Rodrigo Nicolas Mechan Chumpitaz, Rodrigo |
+| Attendees | Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza, Rodrigo Nicolas Mechan Chumpitaz, Rodrigo Jesús Miraval Pomalaya |
 | Sprint n - 1 Review Summary | Este es el primer sprint, por lo que este campo no aplica | 
 | Sprint n - 1 Retrosprective Summary | Este es el primer sprint, no hay retroespectiva |
 | Sprint 1 Goal | Organizarnos para la realización del reporte y para la elaboración y despliegue de la Landing Page |
 | Sprint 1 Velocity | 3 Semanas|
-
+| Sum of Story Points | 11 Story Points |
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
-
+| Team Member | Programación de Menu de Navegación | Programación de Sección "About-Us" | Programación de la sección "Features"| Programación de la sección "Planes"| Programación de la sección "Contacto"|
+| ---------------------| ---------------- | ------------------ | -------------------| --------------------| ----------------|
+| Kevin Alexander Castañeda Llanos | X | X | X | X | X |
+| Adrian Alonso Calle Huayanca | - | - | - | - | - |
+| Renzo José Araujo Ingunza | - | - | - | - | - | 
+| Rodrigo Nicolás Mechan Chumpitaz| - | - | - | - | - |
+| Rodrigo Jesús Miraval Pomalaya | - | - | - | - | - |
 #### 5.2.1.3. Sprint Backlog 1.
-
-#### 5.2.1.4. Development Evidence for Sprint Review.
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID  | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US041 | Menú de navegación	 | TS01 | Implementación del menú de navegación | Implementacaión del menú de navegación para la Landing Page en la parte superior. | 2 hours | Kevin | Done |
+| US042 | Call to Action | TS02 | Implementación de botones y enlaces internos | Implementación de botones y enlaces internos en la página web para llevar al usuario a secciones. | 2 hours | Kevin | Done |
+| US043 | Características | TS03 | Implementación de la sección "Características | Implementación de la sección "Características", con los aspectos positivos de la app. | 2 hours | Kevin | Done |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En esta sección mostraremos la evidencia de la creación de la Landing Page. Se presentarán capturas sobre algunas de las funciones principales.
