@@ -122,9 +122,12 @@ Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Net
 | US043 | Características | TS03 | Implementación de la sección "Características | Implementación de la sección "Características", con los aspectos positivos de la app. | 2 hours | Kevin | Done |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-En esta sección mostraremos la evidencia de la creación de la Landing Page. Se presentarán capturas sobre algunas de las funciones principales.
+Mostraremos un video cargado en Microsoft Stream acerca de las funcionalidades e interfaz de la Landing Page.
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EXspQ-QqvTVIsFm0_i13sLsBeiCkZDpyXSTJNAnxcJmrEg?e=iFd0fF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Se mostrarán algunas evidencias sobre la realización del Sprint 1.
+
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
