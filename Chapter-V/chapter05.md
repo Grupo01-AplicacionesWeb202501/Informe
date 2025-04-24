@@ -127,8 +127,7 @@ Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Net
 | AplicacionesWeb202501-Landing-Page | main | b989d017838347ff1987ea4004f79bb420a7b09f | Feature: Initial commit | —---------- | 21/04/2025 |
 | AplicacionesWeb202501-Landing-Page | main | c526d4c88fca4e17eca3831e8193f2be6fcc484d | Feature: add README description | —---------- | 21/04/2025 |
 | AplicacionesWeb202501-Landing-Page | main | 2a3499a545b1bc1b4db6a2cbba63e420e1aa0932 | Feature: Add Landing Page Resources | —---------- | 21/04/2025 |
-| AplicacionesWeb202501-Landing-Page | main | 15fcf7a4a10d3cd20698f8e3143d4ea5d1ed4b99 | Feature: Merge branch 'main' of https://github.com/Grupo01-AplicacionesWeb202501/Landing-Page
- | —---------- | 21/04/2025 |
+| AplicacionesWeb202501-Landing-Page | main | 15fcf7a4a10d3cd20698f8e3143d4ea5d1ed4b99 | Feature: Merge branch 'main' of https://github.com/Grupo01-AplicacionesWeb202501/Landing-Page | —---------- | 21/04/2025 |
 
 
 
@@ -140,6 +139,8 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EXspQ-Qq
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Se mostrarán algunas evidencias sobre la realización del Sprint 1.
+**Link de la Landing Page: https://webapplicattions-landingpage.netlify.app/**
+
 
 **Información del despliegue de la Landing Page**
 <img src= "..\Chapter-V\images\deploy-landing.png" alt="Landing Page Deploy">
@@ -156,13 +157,8 @@ Se mostrarán algunas evidencias sobre la realización del Sprint 1.
 **Landing Page en la web** 
 <img src= "..\Chapter-V\images\landing-web.png" alt="Landing Page en la web">
 
-
-
-
-
-
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
 
 ## 5.3. Validation Interviews.
 
