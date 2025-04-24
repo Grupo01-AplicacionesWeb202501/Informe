@@ -82,54 +82,27 @@ Utilizaremos diversos lenguajes de programación, además de usar lenguajes de m
         <my-component />  
 ### 5.1.4. Software Deployment Configuration.
 Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Netlify es una plataforma de alojamiento web y de desarrollo que permite crear, implementar y gestionar sitios web y aplicaciones web completamente gratuito. 
+
+<img src= "..\Chapter-V\images\netlify.png" alt="Git Model">
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 
-<table BORDER>
-    <tr>
-        <th>Sprint #</th>
-        <th>Sprint 1</th>
-    </tr>
-    <tr>
-    <th colspan="2">Sprint Planning Background</th>
-    </tr>
-  <tr>
-    <td>Date</td>
-    <td>13/04/2025</td>
-  </tr>
-  <tr>
-    <td>Location</td>
-    <td>Realizamos la reunión de forma virtual a través de Discord</td>
-  </tr>
-  <tr>
-    <td>Prepared By</td>
-    <td>Castañeda Llanos, Kevin Alexander / Calle Huayanca, Adrian Alonso/ Miraval Pomalaya, Rodrigo Jesus/ Araujo Ingunza, Renzo José /Mechan Chumpitaz             Rodrigo Nicolas</td>
-   </tr>
-     <tr>
-    <td>Sprint 0 Review Summary</td>
-    <td>Realización recién del primer Sprint</td>
-  </tr>
-  <tr>
-    <td>Sprint 0 Retrospective Summary</td>
-    <td>Realización recién del primer Sprint</td>
-  </tr>
- <tr>
-    <td colspan="2">Sprint Goal & User Stories</td>
-  </tr>
-  <tr>
-    <td>Sprint 1 Goal</td>
-    <td>Desarrollar y finalizar la Landing Page de Ecoflow para desplegarlo en el repositorio del grupo</td>
-  </tr>
- <tr>
-    <td>Sprint 1 Velocity</td>
-    <td>2 semanas</td>
-  </tr>
-  <tr>
-    <td>Sum of Story Points</td>
-    <td>8</td>
-  </tr> 
-</table>
+| Sprint #            | Sprint 1           |
+|----------------------|-----------------------|
+| Date          | 13 - 04 - 2025  |                                                                      
+| Time         | 7:00 pm   |
+| Location | Virtual - Discord |
+| Prepared By | Kevin Castañeda Llanos |
+| Attendees | Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza, Rodrigo Nicolas Mechan Chumpitaz, Rodrigo |
+| Sprint n - 1 Review Summary | Este es el primer sprint, por lo que este campo no aplica | 
+| Sprint n - 1 Retrosprective Summary | Este es el primer sprint, no hay retroespectiva |
+| Sprint 1 Goal | Organizarnos para la realización del reporte y para la elaboración y despliegue de la Landing Page |
+| Sprint 1 Velocity | 3 Semanas|
+
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
