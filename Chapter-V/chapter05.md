@@ -83,7 +83,7 @@ Utilizaremos diversos lenguajes de programación, además de usar lenguajes de m
 ### 5.1.4. Software Deployment Configuration.
 Para el despliegue inicial del proyecto (Landing Page) utilizaremos Netlify. Netlify es una plataforma de alojamiento web y de desarrollo que permite crear, implementar y gestionar sitios web y aplicaciones web completamente gratuito. 
 
-<img src= "..\Chapter-V\images\netlify.png" alt="Git Model">
+<img src= "..\Chapter-V\images\netlify.png" alt="Netlify Logo">
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -140,6 +140,7 @@ No se han implementado servicios para el Landing Page, por lo que no se tiene do
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Se mostrarán algunas evidencias sobre la realización del Sprint 1.
+
 **Link de la Landing Page: https://webapplicattions-landingpage.netlify.app/**
 
 
@@ -161,11 +162,11 @@ Se mostrarán algunas evidencias sobre la realización del Sprint 1.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Se mostrarán algunas imagenes respecto a la contribución durante la realización del Sprint 1.
 
-<img src= "..\Chapter-V\images\contributors-spring.png" alt="Landing Page en la web">
+<img src= "..\Chapter-V\images\contributors-spring.png" alt="Sprint 1 Contributors">
 
 
 
-<img src= "..\Chapter-V\images\network-graph.png" alt="Landing Page en la web">
+<img src= "..\Chapter-V\images\network-graph.png" alt="Sprint 1 Netfowrk Graph">
 
 
 
