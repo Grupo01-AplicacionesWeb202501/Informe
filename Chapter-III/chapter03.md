@@ -83,6 +83,9 @@
 
 
 ## 3.3. Impact Mapping.
+
+![img.png]()
+
 ## 3.4. Product Backlog.
 
 | **#orden**  |**User Story Id**          | **Titulo**                                     | **Descripcion**                                                                  | **Story Points**               |
