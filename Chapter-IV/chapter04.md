@@ -86,7 +86,31 @@ El sitio emplea colores contrastantes y tipografías limpias para optimizar la v
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+La landing page de Eduflow se estructura siguiendo un sistema jerárquico que permite presentar la información de manera progresiva, clara y centrada en la experiencia del usuario. Las secciones están organizadas en bloques definidos para facilitar la navegación:
+
+- Header con el nombre del producto y navegación principal.
+
+- Hero Section que presenta una propuesta de valor clara.
+
+- Sobre Nosotros: breve descripción del propósito de la plataforma.
+
+- Servicios: muestra funcionalidades o beneficios destacados.
+
+- Contacto: información de redes sociales e íconos interactivos.
+
+Este orden responde a un flujo de atención de patron tipo z, que guía al usuario desde el encabezado hacia los llamados a la acción.
+
 ### 4.2.2. Labeling Systems.
+El sistema de etiquetado empleado es claro, directo y consistente con el propósito del sitio. Como por ejemplo:
+
+- Menú principal con enlaces como: Sobre Nosotros, Características, etc.
+
+- Encabezados visualmente destacados con clases personalizadas.
+
+- Botones con textos de acción como “Consultar precios” o “Registrate”, con clases que permiten cambiar su apariencia al pasar el cursor.
+
+- Las imágenes tienen etiquetas alt, contribuyendo también a la accesibilidad.
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
