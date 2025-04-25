@@ -112,8 +112,24 @@ El sistema de etiquetado empleado es claro, directo y consistente con el propós
 - Las imágenes tienen etiquetas alt, contribuyendo también a la accesibilidad.
 
 ### 4.2.3. SEO Tags and Meta Tags
+El documento HTML incluye etiquetas mínimas de optimización para buscadores:
+
+- Se emplea meta charset="UTF-8" y meta name="viewport" content="width=device-width, initial-scale=1.0" para asegurar accesibilidad y diseño responsivo.
+
+- Uso de <title>Eduflow - Sistema de matrícula inteligente</title> como título del documento.
+
+- El uso de etiquetas semánticas como header, section y footer facilita la interpretación del contenido por los motores de búsqueda.
 ### 4.2.4. Searching Systems.
+
 ### 4.2.5. Navigation Systems.
+La navegación está basada en un sistema de anclas internas que permiten al usuario desplazarse por las secciones de la misma página. Algunas características clave:
+
+- Menú fijo en la parte superior con enlaces que apuntan a #about, #services, #contact, etc.
+
+- El comportamiento scroll-behavior: smooth facilita una transición amigable entre secciones.
+
+- El diseño es responsivo: incluye una versión para dispositivos móviles basada en un menú tipo hamburguesa, activado mediante un checkbox (#menu-toggle) y manipulado con JavaScript.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
