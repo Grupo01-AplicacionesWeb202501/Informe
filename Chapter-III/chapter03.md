@@ -84,7 +84,7 @@
 
 ## 3.3. Impact Mapping.
 
-![img.png]()
+![img.png](Mapping.png)
 
 ## 3.4. Product Backlog.
 
