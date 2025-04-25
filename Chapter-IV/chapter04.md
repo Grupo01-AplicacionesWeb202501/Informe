@@ -78,6 +78,12 @@ Spacing:
 
 
 ### 4.1.2. Web Style Guidelines.
+Para nuestra plataforma, hemos diseñado un sitio web orientado a la presentación clara y accesible de la información del producto, pensado para mejorar la experiencia de los usuarios desde su primer contacto con la landing page.
+
+El diseño sigue el patrón de lectura en forma de Z, lo que facilita que el usuario siga intuitivamente la estructura de la página desde el logotipo (arriba a la izquierda), pasando por los llamados a la acción principales, hasta llegar a los contenidos y formularios. Esta estrategia asegura que los usuarios vean primero los elementos más importantes, como los botones de registro o información clave.
+
+El sitio emplea colores contrastantes y tipografías limpias para optimizar la visibilidad y la interacción, manteniendo siempre la coherencia gráfica para reforzar la identidad visual del producto.
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
