@@ -1,17 +1,82 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Branding
+Branding:
+- Nombre del proyecto: Eduflow
 
-Typography
+- Logotipo: El nombre del proyecto "Eduflow" esta estilizado como marca principal y encabezado izquierdo superior.
 
-Colors
+- Identidad visual: Uso predominante de azul, tipografía moderna sans-serif, y diseño limpio y amigable.
 
-State Colors
+Typography:
+- Fuente principal: Noto Sans, sans-serif
 
-Black/grey Colors
+- Fuente decorativa o alternativa: National Park, sans-serif (en títulos o énfasis)
 
-Spacing
+- Tamaños y jerarquía:
+
+  - Títulos grandes (h1, h2): 2rem o más
+
+  - Subtítulos y descripciones (p, h3): 1rem – 1.25rem
+
+- Estilo de fuente: Uso de negrita (bold) para títulos y énfasis
+
+Colors:
+
+- Primario: #477eb9 (azul principal)
+
+- Secundario: #ebf4ff (azul muy claro)
+
+- Terciario: #bed6fb (azul pastel)
+
+- Fondo general: #f7f9fc
+
+- Texto principal: #4a5568
+
+- Texto en encabezados: #2d3748
+
+- Blanco para contraste: #ffffff
+
+State Colors:
+
+- Hover de botones y enlaces:
+
+  - Fondo en hover: #3d1ebb
+
+  - Texto en hover: blanco (#ffffff)
+
+- Enlaces activos / seleccionados: subrayado o cambio de color
+
+- Animación de aparición: .fade-in (con @keyframes fadeInUp)
+
+Black/grey Colors:
+
+- Gris oscuro (texto): #4a5568
+
+- Gris para bordes / fondos:
+
+  - #e2e8f0 (borde claro)
+
+  - #edf2f7 (fondo gris suave)
+
+- Negro puro: No se utiliza, se emplean grises oscuros para suavidad visual
+
+Spacing:
+
+- Margen general: margin: 0 auto (centrado horizontal)
+
+- Padding interno en secciones: padding: 2rem en promedio
+
+- Espaciado entre elementos:
+
+  - Títulos y párrafos: margin-bottom: 1.5rem
+
+  - Botones y bloques: gap: 1rem – 2rem según layout
+
+- Diseño responsivo: uso de max-width, display: flex, justify-content: center y text-align: center
+
+
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
