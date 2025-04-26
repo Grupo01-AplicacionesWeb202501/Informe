@@ -177,6 +177,11 @@ Además, la interfaz está pensada para adaptarse a diferentes dispositivos (dis
 <img src= "..\Chapter-IV/Images/LD Eduflow PG5.png">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+<img src= "..\Chapter-IV/Images/LP Wireframes Eduflow.jpg">
+
+https://miro.com/welcomeonboard/Qmp1MlA4dXZHSnQ0SHBRcW9mS2VlaFVjQTRtVUtmbVhOOHAvM2hYVnc3K25ZM1U5R3RCb29jMkdHUFM1RkoyWDE5YjdGNkQrSmU5ODJIbkRBa25SVjlhbnlyYXlVTzJiUU1xZUdlbWl2WWxUcWt1RnV1TXpXcDhWNzgwQ3BzaDNhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=337829451648
+
 ### 4.4.3. Web Applications Mock-ups.
 **Inicio:**
 <img src= "..\Chapter-IV/Images/LD MU Eduflow PG1.png">
@@ -194,6 +199,11 @@ Además, la interfaz está pensada para adaptarse a diferentes dispositivos (dis
 <img src= "..\Chapter-IV/Images/LD MU Eduflow PG5.png">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
+
+<img src= "..\Chapter-IV/Images/LP MockUp Eduflow.jpg">
+
+https://miro.com/welcomeonboard/aDR6Yy9hUkU3aWVFNjdFR08yNm9RWW0vak1pQWVyZUlJckVOdW1KUUNWOFVDT0ZrbUsxdE04aXJRSmUwYkx4UDZCTXM2a2U4VDBFT1d1aDMyZGErY2RhbnlyYXlVTzJiUU1xZUdlbWl2WWx6Q3UxZmNuY01Yc0N0UE1EWW5henNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=967038294190
+
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
