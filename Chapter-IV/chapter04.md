@@ -73,7 +73,7 @@ Spacing:
 
   - Botones y bloques: gap: 1rem – 2rem según layout
 
-- Diseño responsivo: uso de max-width, display: flex, justify-content: center y text-align: center
+- Diseño responsivo: uso de *max-width, display: flex, justify-content: center y text-align: center*
 
 
 
@@ -114,9 +114,9 @@ El sistema de etiquetado empleado es claro, directo y consistente con el propós
 ### 4.2.3. SEO Tags and Meta Tags
 El documento HTML incluye etiquetas mínimas de optimización para buscadores:
 
-- Se emplea meta charset="UTF-8" y meta name="viewport" content="width=device-width, initial-scale=1.0" para asegurar accesibilidad y diseño responsivo.
+- Se emplea *meta charset="UTF-8"* y *meta name="viewport" content="width=device-width, initial-scale=1.0"* para asegurar accesibilidad y diseño responsivo.
 
-- Uso de <title>Eduflow - Sistema de matrícula inteligente</title> como título del documento.
+- Uso de *<title>Eduflow - Sistema de matrícula inteligente</title>* como título del documento.
 
 - El uso de etiquetas semánticas como header, section y footer facilita la interpretación del contenido por los motores de búsqueda.
 ### 4.2.4. Searching Systems.
