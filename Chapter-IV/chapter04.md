@@ -205,6 +205,10 @@ https://miro.com/welcomeonboard/Qmp1MlA4dXZHSnQ0SHBRcW9mS2VlaFVjQTRtVUtmbVhOOHAv
 https://miro.com/welcomeonboard/aDR6Yy9hUkU3aWVFNjdFR08yNm9RWW0vak1pQWVyZUlJckVOdW1KUUNWOFVDT0ZrbUsxdE04aXJRSmUwYkx4UDZCTXM2a2U4VDBFT1d1aDMyZGErY2RhbnlyYXlVTzJiUU1xZUdlbWl2WWx6Q3UxZmNuY01Yc0N0UE1EWW5henNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=967038294190
 
 ## 4.5. Web Applications Prototyping.
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG1.png">
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EXspQ-QqvTVIsFm0_i13sLsBeiCkZDpyXSTJNAnxcJmrEg?e=iFd0fF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ### 4.6.2. Software Architecture Container Diagrams.
