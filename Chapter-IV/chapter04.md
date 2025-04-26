@@ -149,6 +149,16 @@ Además, la interfaz está pensada para adaptarse a diferentes dispositivos (dis
 <img src= "..\Chapter-IV/Images/LD Eduflow PG5.png">
 
 ### 4.3.2. Landing Page Mock-up.
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG1.png">
+
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG2.png">
+
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG3.png">
+
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG4.png">
+
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG5.png">
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
