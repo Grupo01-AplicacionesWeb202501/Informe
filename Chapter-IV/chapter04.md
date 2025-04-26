@@ -6,7 +6,7 @@ Branding:
 
 - Logotipo: El nombre del proyecto "Eduflow" esta estilizado como marca principal y encabezado izquierdo superior.
 
-- Identidad visual: Uso predominante de azul, tipografía moderna sans-serif, y diseño limpio y amigable.
+- Identidad visual: Uso predominante de azul, tipografía moderna sans-serif, y diseño limpio y amigable. En los archivos de la landing page se refleja esta identidad visual, con colores definidos y fuentes aplicadas de forma coherente.
 
 Typography:
 - Fuente principal: Noto Sans, sans-serif
@@ -19,7 +19,7 @@ Typography:
 
   - Subtítulos y descripciones (p, h3): 1rem – 1.25rem
 
-- Estilo de fuente: Uso de negrita (bold) para títulos y énfasis
+- Estilo de fuente: Uso de negrita para títulos y énfasis
 
 Colors:
 
