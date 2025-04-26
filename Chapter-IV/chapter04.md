@@ -131,6 +131,12 @@ La navegación está basada en un sistema de anclas internas que permiten al usu
 - El diseño es responsivo: incluye una versión para dispositivos móviles basada en un menú tipo hamburguesa, activado mediante un checkbox (#menu-toggle) y manipulado con JavaScript.
 
 ## 4.3. Landing Page UI Design.
+El diseño de interfaz de la landing page de Eduflow ha sido concebido como el primer punto de contacto visual y emocional entre los usuarios y la plataforma. Esta página no solo cumple una función informativa, sino que busca generar confianza, facilitar la navegación y motivar la acción inmediata, ya sea para conocer más del servicio o iniciar el proceso de registro.
+
+El enfoque visual sigue los lineamientos establecidos en la guía de estilo (4.1) y la arquitectura de información (4.2), asegurando coherencia gráfica, claridad estructural y una experiencia de usuario fluida. La disposición de los elementos, la elección de colores, tipografías, espaciado y jerarquía visual responden directamente a las preferencias detectadas en entrevistas (2.2), así como a las necesidades funcionales expresadas en las historias de usuario (3.2), particularmente las relacionadas a la exploración de beneficios, visualización de precios y contacto directo.
+
+Además, la interfaz está pensada para adaptarse a diferentes dispositivos (diseño responsive), reforzando la accesibilidad para estudiantes y psicólogos desde cualquier contexto de navegación.
+
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
 ## 4.4. Web Applications UX/UI Design.
