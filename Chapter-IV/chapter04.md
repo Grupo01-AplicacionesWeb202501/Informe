@@ -138,6 +138,16 @@ El enfoque visual sigue los lineamientos establecidos en la guía de estilo (4.1
 Además, la interfaz está pensada para adaptarse a diferentes dispositivos (diseño responsive), reforzando la accesibilidad para estudiantes y psicólogos desde cualquier contexto de navegación.
 
 ### 4.3.1. Landing Page Wireframe.
+<img src= "..\Chapter-IV/Images/LD Eduflow PG1.png">
+
+<img src= "..\Chapter-IV/Images/LD Eduflow PG2.png">
+
+<img src= "..\Chapter-IV/Images/LD Eduflow PG3.png">
+
+<img src= "..\Chapter-IV/Images/LD Eduflow PG4.png">
+
+<img src= "..\Chapter-IV/Images/LD Eduflow PG5.png">
+
 ### 4.3.2. Landing Page Mock-up.
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
