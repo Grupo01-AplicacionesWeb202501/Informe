@@ -161,8 +161,38 @@ Además, la interfaz está pensada para adaptarse a diferentes dispositivos (dis
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+Inicio:
+<img src= "..\Chapter-IV/Images/LD Eduflow PG1.png">
+
+Sobre Nosotros:
+<img src= "..\Chapter-IV/Images/LD Eduflow PG2.png">
+
+Caracteristicas:
+<img src= "..\Chapter-IV/Images/LD Eduflow PG3.png">
+
+Lista de precios:
+<img src= "..\Chapter-IV/Images/LD Eduflow PG4.png">
+
+Contacto:
+<img src= "..\Chapter-IV/Images/LD Eduflow PG5.png">
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.3. Web Applications Mock-ups.
+Inicio:
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG1.png">
+
+Sobre Nosotros:
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG2.png">
+
+Caracteristicas:
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG3.png">
+
+Lista de precios:
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG4.png">
+
+Contacto:
+<img src= "..\Chapter-IV/Images/LD MU Eduflow PG5.png">
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
