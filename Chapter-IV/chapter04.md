@@ -178,7 +178,7 @@ Además, la interfaz está pensada para adaptarse a diferentes dispositivos (dis
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-<img src= "..\Chapter-IV/Images/LD MU Eduflow PG4.png">
+<img src= "..\Chapter-IV/Images/LP Wireframes  EduFlow.jpg">
 
 https://miro.com/welcomeonboard/Qmp1MlA4dXZHSnQ0SHBRcW9mS2VlaFVjQTRtVUtmbVhOOHAvM2hYVnc3K25ZM1U5R3RCb29jMkdHUFM1RkoyWDE5YjdGNkQrSmU5ODJIbkRBa25SVjlhbnlyYXlVTzJiUU1xZUdlbWl2WWxUcWt1RnV1TXpXcDhWNzgwQ3BzaDNhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=337829451648
 
