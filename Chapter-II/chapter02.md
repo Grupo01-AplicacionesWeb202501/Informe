@@ -13,14 +13,14 @@
 | Canvas, Blackboard       | Plataformas amigables y móviles.                         | Alto costo de licencias para universidades locales.   |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-*Estrategias:
-Ofrecer un proceso de matrícula rápido y resiliente ante alta demanda.
-Personalización basada en la carrera y progreso del alumno.
-Soporte multicanal (chatbots, WhatsApp, email).
-Tácticas:
-Redundancia de servidores para evitar caídas.
-Algoritmos de asignación de horarios inteligentes.
-Gamificación de la experiencia de matrícula para reducir el estrés.
+*Estrategias:<br>
+Ofrecer un proceso de matrícula rápido y resiliente ante alta demanda.<br>
+Personalización basada en la carrera y progreso del alumno.<br>
+Soporte multicanal (chatbots, WhatsApp, email).<br>
+Tácticas:<br>
+Redundancia de servidores para evitar caídas.<br>
+Algoritmos de asignación de horarios inteligentes.<br>
+Gamificación de la experiencia de matrícula para reducir el estrés.<br>
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 #### Buenas Prácticas: 
