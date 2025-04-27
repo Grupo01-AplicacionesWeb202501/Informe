@@ -1,8 +1,5 @@
  # Capítulo I: Introducción
- La introducción desempeña un papel fundamental al establecer el contexto en el que se 
-desarrollará el proyecto. Ofrece una perspectiva general sobre los objetivos, antecedentes y el 
-alcance del trabajo planteado. Asimismo, permite resaltar la relevancia del proyecto, subrayando
-las motivaciones que lo impulsan y los problemas que busca abordar.
+En un contexto educativo donde los procesos administrativos siguen presentando numerosas ineficiencias, surge la necesidad de soluciones tecnológicas que transformen la experiencia de matrícula y gestión académica. Eduflow nace como una respuesta innovadora a estos desafíos, proponiendo una plataforma moderna, intuitiva y centrada en el usuario. A través de esta iniciativa, buscamos optimizar la interacción entre estudiantes y profesores, simplificar la administración escolar y fomentar una educación más accesible y organizada.
 ## 1.1. Startup Profile
 El perfil de una startup es esencial para entender su visión, valores centrales y propuesta
 distintiva en el mercado. En esta sección, se analizarán los aspectos fundamentales que 
