@@ -335,3 +335,5 @@ En esta sección colocaremos la descripción de cada atributo de cada clase, ten
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+<img src= "..\Chapter-IV/Images/diagrama-bd.png">
+
