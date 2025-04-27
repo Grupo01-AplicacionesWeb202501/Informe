@@ -2,6 +2,16 @@
 ## 2.1. Competidores.
 * Competidores de soluciones tecnológicas: Blackboard, Canvas y plataformas locales como Netclass o SIEWEB que ofrecen módulos de matrícula.<br>
 ### 2.1.1. Análisis competitivo.
+
+# Análisis Competitivo de Sistemas de Matrícula Universitaria
+
+| Competidor              | Fortalezas                                               | Debilidades                                           |
+|--------------------------|----------------------------------------------------------|-------------------------------------------------------|
+| UPC                      | Sistema propio integrado al portal de alumno.            | Congestión en días de matrícula, horarios limitados.  |
+| PUCP                     | Sistema de matrícula más robusto y escalable.            | Difícil para alumnos nuevos, curva de aprendizaje.    |
+| Universidad de Lima      | Prioriza alumnos con mejor rendimiento (ranking).        | Inequidad en elección de cursos.                      |
+| Canvas, Blackboard       | Plataformas amigables y móviles.                         | Alto costo de licencias para universidades locales.   |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
