@@ -17,7 +17,7 @@
 Ofrecer un proceso de matrícula rápido y resiliente ante alta demanda.<br>
 Personalización basada en la carrera y progreso del alumno.<br>
 Soporte multicanal (chatbots, WhatsApp, email).<br>
-Tácticas:<br>
+* Tácticas:<br>
 Redundancia de servidores para evitar caídas.<br>
 Algoritmos de asignación de horarios inteligentes.<br>
 Gamificación de la experiencia de matrícula para reducir el estrés.<br>
