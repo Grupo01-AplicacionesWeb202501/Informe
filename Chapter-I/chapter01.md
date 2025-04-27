@@ -49,7 +49,7 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
   </tr> 
   <tr>
       <td>Kevin Alexander Castañeda Llanos<br>
-      <img /></td></td>
+      ![image](Images/![foto]())
     <td>U202318814</td>
     <td>Ingeniería de Software</td>
     <td>Conocimiento en programación en Python, Javascript, HTML y CSS. Además de un nivel intermedio en base de datos (SQL Server y MySQL) .</tr>
