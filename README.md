@@ -24,7 +24,7 @@
 |  Araujo Ingunza Renzo José | u202113612 |
 |  Calle Huayanca Adrian Alonso | U202011657|
 |  Mechan Chumpitaz Rodrigo Nicolas | U202114649 |
-|   |  |
+|  Castañeda Llanos Kevin Alexander | U202318814  |
 |   |  |
 |   |  |
 
