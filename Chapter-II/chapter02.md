@@ -44,8 +44,19 @@
 
 6. ¿Qué características valoras más en una plataforma que te ayude en la gestión académica?
 
-
 ### 2.2.2. Registro de entrevistas.
+#### Segmento objetivo 1: Alumnos.
+#### Segmento objetivo 2: Profesores.
+**a) Abraham Estrada**<br>
+* Edad: 25 años
+* Duración de entrevista: 3 min 40 seg
+* Resumen de la entrevista: Abraham Estrada, un profesor de 25 años. Quien opina que los procesos de matricula son demasiado burocráticos, lentos y que deberían automatizarse más. Además, comenta que la falta de sincronización de los horarios y la dificultad para realizar cambios hace de esta una experiencia nefasta. Normalmente utiliza herramientas para la gestión de sus alumnos como Google Calendar, WhatsApp, Excel y en ocasiones la intranet de la institución.<br>
+* La entrevista con Abraham Estrada revela que los procesos de matrícula en su institución presentan importantes oportunidades de mejora, principalmente en la automatización y sincronización de horarios. La comunicación deficiente y la falta de actualización en la información generan frustración tanto en profesores como en alumnos.
+* link de la entrevista: https://upcedupe-my.sharepoint.com/personal/u202113612_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113612_upc_edu_pe%2FDocuments%2FEntrevista_Profesores_Renzo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eecca0919-b91b-476c-9021-497bfc10d81d
+* evidencia:<br>
+  ![image](https://github.com/user-attachments/assets/fb9295a3-f8b6-43d7-a88b-8bd9b87d651b)
+
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
