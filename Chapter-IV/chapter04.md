@@ -215,6 +215,123 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EXspQ-Qq
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+Presentaremos como un diagrama de clases algunas de las funciones principales que debe de tener nuestra futura aplicación web.
+<img src= "..\Chapter-IV/Images/diagrama-clases.png">
+
 ### 4.7.2. Class Dictionary.
+
+En esta sección colocaremos la descripción de cada atributo de cada clase, teniendo en cuenta también su tipo de dato. Es importante crear un diccionario de las clases ya que sirve como documentación para que otros programadores sean capaz de entender el funcionamiento de cada atributo.
+
+#### Clase: Usuario
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idUsuario          | Identificador único del usuario        | int                   |
+| nombre             | Nombre completo del usuario            | String                |
+| correo             | Correo electrónico del usuario         | String                |
+| contraseña         | Contraseña del usuario                 | String                |
+| tipoUsuario        | Tipo de usuario (Alumno, Profesor, Admin) | enum (Alumno, Profesor, Administrador) |
+
+
+#### Clase: Alumno (hereda de Usuario)
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| codigoAlumno       | Código único del alumno                | String                |
+| carrera            | Carrera que cursa el alumno            | String                |
+| cicloActual        | Ciclo académico actual del alumno      | int                   |
+
+
+#### Clase: Profesor (hereda de Usuario)
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| codigoProfesor     | Código único del profesor              | String                |
+| especialidad       | Especialidad del profesor              | String                |
+
+
+#### Clase: Curso
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idCurso            | Identificador único del curso          | int                   |
+| nombre             | Nombre del curso                       | String                |
+| codigo             | Código único del curso                 | String                |
+| creditos           | Número de créditos del curso           | int                   |
+| cupoMaximo         | Número máximo de estudiantes en el curso | int                   |
+
+
+#### Clase: Seccion
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idSeccion          | Identificador único de la sección      | int                   |
+| horario            | Horario de la sección                  | String                |
+| aula               | Aula en la que se imparte la sección   | String                |
+| vacantesDisponibles| Número de vacantes disponibles         | int                   |
+
+
+#### Clase: Matricula
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idMatricula        | Identificador único de la matrícula    | int                   |
+| fechaMatricula     | Fecha en la que se realizó la matrícula | Date                  |
+
+
+#### Clase: Pago
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idPago             | Identificador único del pago          | int                   |
+| monto              | Monto total del pago                  | double                |
+| fechaPago          | Fecha en la que se realizó el pago    | Date                  |
+| estado             | Estado del pago (Pendiente, Pagado, etc.) | enum (Pendiente, Pagado, Cancelado) |
+
+
+#### Clase: Documento
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idDocumento        | Identificador único del documento      | int                   |
+| tipo               | Tipo de documento (DNI, Certificado, etc.) | enum (DNI, Certificado, Otros) |
+| numero             | Número del documento                   | String                |
+| estadoValidacion   | Estado de validación del documento (Pendiente, Aprobado, Rechazado) | enum (Pendiente, Aprobado, Rechazado) |
+| fechaSubida        | Fecha en la que se subió el documento  | Date                  |
+
+
+#### Clase: Notificacion
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idNotificacion     | Identificador único de la notificación | int                   |
+| tipo               | Tipo de notificación (Email, SMS)      | enum (Email, SMS)     |
+| destinatario       | Destinatario de la notificación        | String                |
+| asunto             | Asunto de la notificación              | String                |
+| mensaje            | Contenido del mensaje de la notificación | String              |
+| fechaEnvio         | Fecha en la que se envió la notificación | Date                |
+| estado             | Estado de la notificación (Enviado, Pendiente, Error) | enum (Enviado, Pendiente, Error) |
+
+
+#### Clase: Factura
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idFactura          | Identificador único de la factura      | int                   |
+| numeroFactura      | Número único de la factura             | String                |
+| montoTotal         | Monto total de la factura              | double                |
+| fechaEmision       | Fecha de emisión de la factura         | Date                  |
+| estadoPago         | Estado del pago (Pagada, Pendiente, Anulada) | enum (Pagada, Pendiente, Anulada) |
+
+
+#### Clase: Reporte
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idReporte          | Identificador único del reporte        | int                   |
+| tipoReporte        | Tipo de reporte (PorGrado, PorCurso, etc.) | enum (PorGrado, PorCurso, PorCiclo) |
+| formato            | Formato del reporte (PDF, Excel)       | enum (PDF, Excel)     |
+| fechaGeneracion    | Fecha en la que se generó el reporte   | Date                  |
+| rutaArchivo        | Ruta del archivo generado del reporte  | String                |
+
+
+#### Clase: Vacante
+| Nombre de Atributo | Descripción                            | Tipo de Dato          |
+|--------------------|----------------------------------------|-----------------------|
+| idVacante          | Identificador único de la vacante      | int                   |
+| estado             | Estado de la vacante (Disponible, Ocupada) | enum (Disponible, Ocupada) |
+
+
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
