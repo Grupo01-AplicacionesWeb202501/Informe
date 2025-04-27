@@ -211,8 +211,14 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EXspQ-Qq
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+<img src= "..\Chapter-IV/Images/structurizr-97973-SystemContext-001.png">
+
 ### 4.6.2. Software Architecture Container Diagrams.
+<img src= "..\Chapter-IV/Images/structurizr-97973-Container-001.png">
+
 ### 4.6.3. Software Architecture Components Diagrams.
+<img src= "..\Chapter-IV/Images/structurizr-97973-Component-001.png">
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
