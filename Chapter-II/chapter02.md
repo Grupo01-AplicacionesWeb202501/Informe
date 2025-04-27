@@ -46,6 +46,13 @@
 
 ### 2.2.2. Registro de entrevistas.
 #### Segmento objetivo 1: Alumnos.
+**a) Rodrigo Reyes Valenzuela**<br>
+* Edad: 21 años
+* Duración de entrevista: 3 min 33 seg
+* Resumen de la entrevista: considera que los procesos de matrícula en su institución son desorganizados, con riesgo de olvidar fechas importantes debido a caídas de la plataforma y problemas en la actualización de cupos. Ha tenido dificultades al comunicarse con profesores para validar cursos, y actualmente utiliza herramientas como Google Calendar y la app de la universidad para gestionar actividades. Describe su experiencia de matrícula como estresante, enfrentando competencia por cupos y falta de claridad sobre el estado de su inscripción. Organizar su horario académico resulta complicado por choques de materias obligatorias y optativas. Manifiesta interés en recibir notificaciones sobre fechas importantes, ya que suele enterarse tarde, y señala que la información de los cursos está dispersa, dificultando la inscripción. Además, ha perdido oportunidades de matrícula que afectaron su avance académico. Para una plataforma ideal, le gustaría ver cupos en tiempo real, recibir sugerencias automáticas de horarios, y ser notificado sobre cambios o vacantes nuevas.
+* URL de la entrevista [Ver entrevista](https://drive.google.com/file/d/1t3LMdysoecCbBGfx9tl5RINBCfaz7WTm/view?usp=sharing)
+
+  
 #### Segmento objetivo 2: Profesores.
 **a) Abraham Estrada**<br>
 * Edad: 25 años
