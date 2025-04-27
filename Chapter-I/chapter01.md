@@ -66,7 +66,7 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
  
   <tr>
     <td>Rodrigo Jesus Miraval Pomalaya<br>
-    <img /></td></td>
+    <img src="IMG_20250124_032643_332.jpg" width="400"  alt="foto" /></td></td>
     <td>U202311082</td>
     <td>Ingeniera de Software</td>
     <td>Tengo experiencia programando en C++ Python y Javascript. Ademas tengo dominio de nivel b2 en ingles</td>
