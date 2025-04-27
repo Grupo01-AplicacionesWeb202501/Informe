@@ -13,7 +13,7 @@
 | Canvas, Blackboard       | Plataformas amigables y móviles.                         | Alto costo de licencias para universidades locales.   |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-*Estrategias:<br>
+* Estrategias:<br>
 Ofrecer un proceso de matrícula rápido y resiliente ante alta demanda.<br>
 Personalización basada en la carrera y progreso del alumno.<br>
 Soporte multicanal (chatbots, WhatsApp, email).<br>
