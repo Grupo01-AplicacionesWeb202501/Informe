@@ -55,7 +55,7 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones educativ
     <td>Conocimiento en programación en Python, Javascript, HTML y CSS. Además de un nivel intermedio en base de datos (SQL Server y MySQL) .</tr>
   <tr>
     <td>Rodrigo Nicolas Mechan Chumpitaz<br>
-    <img /></td></td>
+    ![image](Images/![Impact Mapping](https://github.com/Grupo01-AplicacionesWeb202501/Informe/blob/Chapter-I/chapter01.md/Chapter-I/foto.jpeg))
     <td>U202114649</td>
     <td>Ingeniera de Software</td>
     <td>Domino fundamentos de programación, estructuras de datos, bases de datos, algoritmos y tengo habilidades en trabajo en equipo, resolución de problemas y pensamiento lógico.</td>
