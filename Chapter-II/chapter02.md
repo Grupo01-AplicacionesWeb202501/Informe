@@ -84,10 +84,79 @@ Gamificación de la experiencia de matrícula para reducir el estrés.<br>
 
 
 ### 2.2.3. Análisis de entrevistas.
+
+* En el segmento objetivo 1:
+- Como usuario de la plataforma de la universidad se encuentra totalemnte desepcionado con el sistma de matricula actual ya que perdio varios cursos
+- Son bastantes desorganizados, hay que estar pendiente todo el tiempo y es fácil que se pase alguna fecha importante.
+- Lo más frustrante es que las plataformas se caen en el primer día de matrículas. Además, a veces no se actualizan bien los cupos disponibles.
+- Es un poco estresante, porque hay mucha competencia por los cupos y la plataforma no siempre es clara sobre si estoy realmente inscrito o en la lista de espera.
+- en ambas entrevistas podemos observar que están insatisfechos con el proceso de matrícula actual 
 ## 2.3. Needfinding.
+* Problemas detectados en usuarios de UPC:
+- Caída del sistema en primeros minutos de matrícula.
+- Desigualdad de acceso a horarios por priorización.
+- Frustración por trámites complicados para resolver errores de matrícula.
+Falta de asesoría personalizada en tiempo real.
 ### 2.3.1. User Personas.
+
+* Persona 1: Rodrigo, alumn de 5to ciclo, 20 años
+  Quiere terminar la carrera en el tiempo regular.
+  Prioriza disponibilidad de cursos y facilidad de matrícula.
+
+* Persona 2: Abraham, profesor, 48 años
+  No entiende bien el proceso de matrícula aún.
+  Siente ansiedad y necesita ayuda en tiempo real.
+
 ### 2.3.2. User Task Matrix.
+| Tarea              | Rodrigo  |  Abraham |
+|--------------------|----------|----------|
+| Buscar cursos      | Alto     | Medio    |
+| Inscribirse rápido | Muy alto | Alto     |
+| Entender el proceso| Medio    | Muy alto |
+| Solicitar soporte  | Bajo     | Alto     |
+
 ### 2.3.3. User Journey Mapping.
+## Fase 1: Investigación
+
+- **Descripción:** Usuario revisa los cursos y prerrequisitos.
+- **Dificultad:** Información dispersa.
+
+## Fase 2: Selección
+
+- **Descripción:** Selecciona cursos deseados.
+- **Dificultad:** Ver disponibilidad real en tiempo real.
+
+## Fase 3: Matrícula
+
+- **Descripción:** Intenta confirmar cursos.
+- **Dificultad:** Sistema lento o errores de servidor.
+
+## Fase 4: Confirmación
+
+- **Descripción:** Revisión de cursos matriculados.
+- **Dificultad:** No siempre queda claro si el proceso fue exitoso.
+
 ### 2.3.4. Empathy Mapping.
+| Piensa                         | Siente       | Dice                           | Hace                                       |
+|---------------------------------|--------------|--------------------------------|--------------------------------------------|
+| "Espero conseguir buenos horarios" | Nerviosismo  | "¡Espero que no se caiga el sistema!" | Ingresa varias veces a la plataforma      |
+| "No quiero perder tiempo"       | Frustración  | "¿Por qué es tan lento?"        | Abre varias pestañas buscando soporte     |
+| "Necesito ayuda rápida"         | Ansiedad     | "¿A quién llamo ahora?"         | Busca el chat de ayuda                    |
+
 ### 2.3.5. As-is Scenario Mapping.
+- **Usuario ingresa 10 min antes de su turno.**
+- **El sistema presenta lentitud o errores.**
+- **El usuario se desconecta y reconecta varias veces.**
+- **Finalmente, pierde cursos prioritarios o matrícula incompleta.**
+- **Necesita hacer trámites adicionales (email, tickets).**
+
 ## 2.4. Ubiquitous Language.
+
+| Concepto                  | Definición                                                             |
+|-----------------------------|------------------------------------------------------------------------|
+| Turno de matrícula         | Momento asignado para que el alumno pueda inscribirse.                 |
+| Horario disponible         | Cupos que aún no han sido tomados.                                     |
+| Error de sistema           | Fallas técnicas en la plataforma de matrícula.                        |
+| Reserva de curso           | Proceso de "apartado" temporal de un curso mientras se confirma.       |
+| Confirmación de matrícula  | Validación final de los cursos asignados al estudiante.               |
+
