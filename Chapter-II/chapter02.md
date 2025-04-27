@@ -1,5 +1,6 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
+* Competidores de soluciones tecnológicas: Blackboard, Canvas y plataformas locales como Netclass o SIEWEB que ofrecen módulos de matrícula.<br>
 ### 2.1.1. Análisis competitivo.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
