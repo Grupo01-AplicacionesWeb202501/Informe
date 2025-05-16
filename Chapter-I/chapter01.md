@@ -124,19 +124,15 @@ usuario de forma eficiente y efectiva.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-**¿Cómo podemos desarrollar una solución digital eficiente que facilite el proceso de matrícula en universidades, 
-reduciendo el tiempo y los errores, mientras mejoramos la experiencia de alumnos universitarios, padres y personal administrativo universitario?**
+Aquí se presentan los problemas clave identificados que Eduflow busca abordar en el contexto universitario, formulados sin incluir la solución:
 
-Para universidades que enfrentan dificultades en sus procesos manuales de matrícula, Eduflow aborda el reto de ofrecer
-una plataforma centralizada y automatizada que optimice la inscripción, minimice errores y fomente una experiencia 
-más clara y ordenada para todos los usuarios involucrados.
+* **Problema de Matrícula para Estudiantes y Padres:** Alumnos universitarios y sus padres enfrentan frustración y pérdida de tiempo durante el proceso de matrícula debido a la complejidad, errores y lentitud de los métodos manuales o sistemas desactualizados utilizados por las universidades.
 
-**¿Cómo podemos diseñar una herramienta que permita a profesores y alumnos universitarios interactuar directamente durante el proceso 
-de asignación de cursos, fomentando una mayor organización y comunicación en el entorno universitario?**
+* **Problema de Gestión para el Personal Administrativo:** El personal administrativo universitario dedica excesivo tiempo a tareas manuales y correctivas, lidiando con la duplicación de información y errores en la gestión de matrículas y datos académicos, lo que reduce su eficiencia operativa y dificulta la organización.
 
-Para profesores y alumnos universitarios que necesitan gestionar horarios y asignaciones de forma eficiente, Eduflow responde a la 
-necesidad de un canal interactivo que facilite el intercambio de información, mejore la comunicación y reduzca las
-barreras administrativas en el ámbito universitario.
+* **Problema de Interacción para Profesores y Alumnos:** Profesores y alumnos universitarios tienen dificultades para coordinar y gestionar información relacionada con la asignación de cursos y horarios de manera eficiente debido a la falta de un canal de comunicación y gestión centralizado e interactivo.
+
+* **Problema Sistémico de Digitalización:** Las instituciones universitarias sufren de ineficiencias generales y ofrecen una experiencia de usuario subóptima en procesos clave como la matrícula porque la adopción de soluciones tecnológicas modernas y centralizadas es limitada.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
