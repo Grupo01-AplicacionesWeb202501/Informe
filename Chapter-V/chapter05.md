@@ -219,7 +219,7 @@ En este segundo sprint, es fundamental mantener la claridad en las tareas y segu
   </tr>
 </table>
 
-
+#### 5.2.2.2. Sprint Backlog 2.
 
 
 
