@@ -70,14 +70,7 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones para edu
   <td>Domino fundamentos de programación, estructuras de datos, bases de datos, algoritmos y tengo habilidades en trabajo en equipo, resolución de problemas y pensamiento lógico.</td>
 </tr>
 
- 
-  <tr>
-    <td>Rodrigo Jesus Miraval Pomalaya<br>
-    <img src="IMG_20250124_032643_332.jpg" width="400"  alt="foto" /></td></td>
-    <td>U202311082</td>
-    <td>Ingeniera de Software</td>
-    <td>Tengo experiencia programando en C++ Python y Javascript. Ademas tengo dominio de nivel b2 en ingles</td>
-  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
