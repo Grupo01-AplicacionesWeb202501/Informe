@@ -23,7 +23,7 @@
 | Miembro                             |   Código   |
 | :---------------------------------- | :--------: |
 |  Araujo Ingunza Renzo José | u202113612 |
-|   |  |
+|  Calle Huayanca Adrian Alonso | U202011657 |
 |   |  |
 |   |  |
 |   |  |
