@@ -195,7 +195,7 @@ En este segundo sprint, es fundamental mantener la claridad en las tareas y segu
   </tr>
   <tr>
     <th>Attendees</th>
-    <td>Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza</td>
+    <td>Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza, </td>
   </tr>
   <tr>
     <th>Sprint n - 1 Review Summary</th>
@@ -203,7 +203,7 @@ En este segundo sprint, es fundamental mantener la claridad en las tareas y segu
   </tr>
   <tr>
     <th>Sprint n - 2 Retrospective Summary</th>
-    <td>A falta de 2 compañeros  tuvimos varios retrasos con la entrega del proyecto, se actualizó el reporte, mejorando los puntos que se solicitaron solucionar en el sprint 1. se avanzó con el desarrollo y despliegue del frontend de nuestra aplicación web.</td>
+    <td>A falta de 1 compañero  tuvimos varios retrasos con la entrega del proyecto, se actualizó el reporte, mejorando los puntos que se solicitaron solucionar en el sprint 1. se avanzó con el desarrollo y despliegue del frontend de nuestra aplicación web.</td>
   </tr>
   <tr>
     <th>Sprint 2 Goal</th>
@@ -221,5 +221,64 @@ En este segundo sprint, es fundamental mantener la claridad en las tareas y segu
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-
-
+<table>
+  <tr>
+    <th rowspan="2">User Story ID</th>
+    <th rowspan="2">Título</th>
+    <th colspan="3">Work - Item / Task</th>
+    <th rowspan="2">Status (To-do / In Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <th>Estimación (Horas)</th>
+    <th>Asignado a</th>
+  </tr>
+  <tr>
+    <td>US-001</td>
+    <td>Registro Simplificado de Estudiantes</td>
+    <td>Implementar el registro con validaciones y correo de confirmación.</td>
+    <td>5</td>
+    <td>Renzo Araujo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-002</td>
+    <td>Acceso rápido al portal de matrícula</td>
+    <td>Optimizar el flujo de acceso al portal para estudiantes registrados.</td>
+    <td>8</td>
+    <td>Kevin Castañeda <td>
+    <td>In Process</td>
+  </tr>
+  <tr>
+    <td>US-003</td>
+    <td>Confirmación automática de matrícula</td>
+    <td>Configurar el correo de confirmación y página de agradecimiento.</td>
+    <td>6</td>
+    <td>Rodrigo Mechan</td>
+    <td>To-Review</td>
+  </tr>
+  <tr>
+    <td>US-004</td>
+    <td>Visualización de cursos actuales</td>
+    <td>Mostrar lista de cursos en perfil de estudiante con detalles.</td>
+    <td>7</td>
+    <td>Kevin Castañeda</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US-005</td>
+    <td>Gestión de horarios de clases</td>
+    <td>Crear funcionalidad para que profesores gestionen horarios.</td>
+    <td>9</td>
+    <td>Rodrigo Mechan</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-006</td>
+    <td>Notificación de cambios en horarios</td>
+    <td>Implementar notificaciones de cambios de horarios para estudiantes.</td>
+    <td>8</td>
+    <td>Equipo E</td>
+    <td>To-do</td>
+  </tr>
+</table>
