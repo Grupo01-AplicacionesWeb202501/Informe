@@ -246,7 +246,7 @@ En este segundo sprint, es fundamental mantener la claridad en las tareas y segu
     <td>Acceso rápido al portal de matrícula</td>
     <td>Optimizar el flujo de acceso al portal para estudiantes registrados.</td>
     <td>8</td>
-    <td>Kevin Castañeda <td>
+    <td>Kevin Castañeda</td>
     <td>In Process</td>
   </tr>
   <tr>
