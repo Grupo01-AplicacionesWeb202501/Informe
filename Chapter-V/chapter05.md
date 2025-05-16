@@ -168,5 +168,58 @@ Se mostrarán algunas imagenes respecto a la contribución durante la realizaci�
 
 <img src= "..\Chapter-V\images\network-graph.png" alt="Sprint 1 Netfowrk Graph">
 
+###  5.2.2. Sprint 2
+En este segundo sprint, es fundamental mantener la claridad en las tareas y seguir enfocados en nuestro proceso ágil. Continuaremos mejorando las funcionalidades establecidas en el sprint anterior, optimizando el código existente y avanzando de manera incremental en su desarrollo.
+
+#### 5.2.2.1. Sprint Planning 2.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>13 - 05 - 2025</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>7:00 pm</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Virtual - Discord</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Adrian Alonso Calle Huayanca </td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza</td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Review Summary</th>
+    <td>Este es el primer sprint, por lo que este campo no aplica</td>
+  </tr>
+  <tr>
+    <th>Sprint n - 2 Retrospective Summary</th>
+    <td>A falta de 2 compañeros  tuvimos varios retrasos con la entrega del proyecto, se actualizó el reporte, mejorando los puntos que se solicitaron solucionar en el sprint 1. se avanzó con el desarrollo y despliegue del frontend de nuestra aplicación web.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Organizarnos para la modificación del reporte y para la elaboración y despliegue de la Landing Page y el frontend</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>3 Semanas</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>11 Story Points</td>
+  </tr>
+</table>
+
+
+
 
 
