@@ -68,8 +68,10 @@ Nuestra visión es convertirnos en el líder tecnológico en soluciones para edu
   <td>U202114649</td>
   <td>Ingeniera de Software</td>
   <td>Domino fundamentos de programación, estructuras de datos, bases de datos, algoritmos y tengo habilidades en trabajo en equipo, resolución de problemas y pensamiento lógico.</td>
-  <td>Rodrigo Jesus Miraval Pomalaya<br>
-    <img src="kevin.jpg" width="100"  alt="foto"/></td></td>    
+</tr>
+<tr>
+      <td>Rodrigo Jesus Miraval Pomalaya<br>
+    <img src="[kevin.jpg](https://github.com/Grupo01-AplicacionesWeb202501/Informe/blob/Chapter-I/chapter01.md/Chapter-I/IMG_20250124_032643_332.jpg?raw=true)" width="100"  alt="foto"/></td></td>    
     <td>U202318814</td>
     <td>Ingeniería de Software</td>
     <td>Conocimiento en programación en Python, Javascript, HTML y CSS. Además de un nivel intermedio en base de datos (SQL Server y MySQL) .</tr>
