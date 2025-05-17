@@ -195,7 +195,7 @@ En este segundo sprint, es fundamental mantener la claridad en las tareas y segu
   </tr>
   <tr>
     <th>Attendees</th>
-    <td>Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza, </td>
+    <td>Kevin Alexander Castañeda Llanos, Adrian Alonso Calle Huayanca, Renzo José Araujo Ingunza, Rodrigo Nicolas, Mechan Chumpitaz,  </td>
   </tr>
   <tr>
     <th>Sprint n - 1 Review Summary</th>
@@ -203,7 +203,7 @@ En este segundo sprint, es fundamental mantener la claridad en las tareas y segu
   </tr>
   <tr>
     <th>Sprint n - 2 Retrospective Summary</th>
-    <td>A falta de 1 compañero  tuvimos varios retrasos con la entrega del proyecto, se actualizó el reporte, mejorando los puntos que se solicitaron solucionar en el sprint 1. se avanzó con el desarrollo y despliegue del frontend de nuestra aplicación web.</td>
+    <td>todos los miembros del equipo aportaron en este sprint. Se actualizaron los reportes, mejorando los puntos observados en el sprint 1. Además, se avanzó con el desarrollo y despliegue del frontend de nuestra aplicación web.</td>
   </tr>
   <tr>
     <th>Sprint 2 Goal</th>
